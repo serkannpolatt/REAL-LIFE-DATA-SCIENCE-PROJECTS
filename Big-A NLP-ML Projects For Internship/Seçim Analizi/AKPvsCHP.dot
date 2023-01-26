@@ -1,0 +1,37 @@
+digraph Tree {
+node [shape=box, style="filled, rounded", color="black", fontname=helvetica] ;
+edge [fontname=helvetica] ;
+0 [label="Restricted_Freedoms <= 0.5\ngini = 0.477\nsamples = 56\nvalue = [22, 34]", fillcolor="#399de55a"] ;
+1 [label="support_death_penalty <= 0.5\ngini = 0.105\nsamples = 18\nvalue = [17, 1]", fillcolor="#e58139f0"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="Against_Privatization <= 0.5\ngini = 0.5\nsamples = 2\nvalue = [1, 1]", fillcolor="#e5813900"] ;
+1 -> 2 ;
+3 [label="gini = 0.0\nsamples = 1\nvalue = [0, 1]", fillcolor="#399de5ff"] ;
+2 -> 3 ;
+4 [label="gini = 0.0\nsamples = 1\nvalue = [1, 0]", fillcolor="#e58139ff"] ;
+2 -> 4 ;
+5 [label="gini = 0.0\nsamples = 16\nvalue = [16, 0]", fillcolor="#e58139ff"] ;
+1 -> 5 ;
+6 [label="Alcohol_prohibition <= 0.5\ngini = 0.229\nsamples = 38\nvalue = [5, 33]", fillcolor="#399de5d8"] ;
+0 -> 6 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+7 [label="Region <= 1.5\ngini = 0.062\nsamples = 31\nvalue = [1, 30]", fillcolor="#399de5f6"] ;
+6 -> 7 ;
+8 [label="gini = 0.0\nsamples = 22\nvalue = [0, 22]", fillcolor="#399de5ff"] ;
+7 -> 8 ;
+9 [label="Region <= 2.5\ngini = 0.198\nsamples = 9\nvalue = [1, 8]", fillcolor="#399de5df"] ;
+7 -> 9 ;
+10 [label="gini = 0.0\nsamples = 1\nvalue = [1, 0]", fillcolor="#e58139ff"] ;
+9 -> 10 ;
+11 [label="gini = 0.0\nsamples = 8\nvalue = [0, 8]", fillcolor="#399de5ff"] ;
+9 -> 11 ;
+12 [label="support_new_party <= 0.5\ngini = 0.49\nsamples = 7\nvalue = [4, 3]", fillcolor="#e5813940"] ;
+6 -> 12 ;
+13 [label="gini = 0.0\nsamples = 2\nvalue = [2, 0]", fillcolor="#e58139ff"] ;
+12 -> 13 ;
+14 [label="More_Secular <= 0.5\ngini = 0.48\nsamples = 5\nvalue = [2, 3]", fillcolor="#399de555"] ;
+12 -> 14 ;
+15 [label="gini = 0.0\nsamples = 2\nvalue = [2, 0]", fillcolor="#e58139ff"] ;
+14 -> 15 ;
+16 [label="gini = 0.0\nsamples = 3\nvalue = [0, 3]", fillcolor="#399de5ff"] ;
+14 -> 16 ;
+}

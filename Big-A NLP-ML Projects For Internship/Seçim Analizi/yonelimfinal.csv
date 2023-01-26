@@ -1,0 +1,886 @@
+﻿Timestamp,Cinsiyet,Yas,Bolge,Egitim,soru1,soru2,soru3,soru4,soru5,soru6,soru7,soru8,soru9,soru10,parti
+5/11/2018 1:26:14,Erkek,18-30,Marmara,Lisans,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/11/2018 1:28:11,Erkek,18-30,Marmara,Lisans,Evet,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,Hayır,AKP
+5/11/2018 1:28:26,Kadın,18-30,Marmara,Lisans,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+5/11/2018 1:30:18,Erkek,0-18,Marmara,Lise,Evet,Evet,Hayır,Evet,Hayır,Evet,Evet,Evet,Evet,Evet,IYI PARTI
+5/11/2018 1:30:21,Erkek,18-30,Marmara,Ön Lisans,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Evet,Hayır,Hayır,IYI PARTI
+5/11/2018 1:32:03,Erkek,60+,Marmara,Lisans Üstü,Hayır,Hayır,Hayır,Hayır,Hayır,Hayır,Hayır,Hayır,Hayır,Hayır,HDP
+5/11/2018 1:34:59,Kadın,18-30,Marmara,Lisans,Evet,Evet,Evet,Hayır,Hayır,Evet,Evet,Evet,Evet,Evet,DIĞER
+5/11/2018 1:35:27,Erkek,0-18,Güneydoğu,Lise,Evet,Evet,Evet,Evet,Hayır,Hayır,Evet,Evet,Evet,Evet,CHP
+5/11/2018 1:35:49,Erkek,0-18,Akdeniz,Lise,Hayır,Evet,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/11/2018 1:39:58,Erkek,0-18,Doğu Anadolu,Lise,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,Hayır,CHP
+5/11/2018 1:40:01,Erkek,18-30,İç Anadolu,Lisans,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/11/2018 1:40:45,Erkek,18-30,Marmara,Lise,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Hayır,DIĞER
+5/11/2018 1:41:50,Erkek,18-30,İç Anadolu,Lisans,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Hayır,Evet,Hayır,AKP
+5/11/2018 1:42:18,Erkek,0-18,Akdeniz,Lise,Evet,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,Hayır,IYI PARTI
+5/11/2018 1:45:40,Erkek,18-30,Akdeniz,Lisans,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Hayır,Evet,Evet,CHP
+5/11/2018 1:46:05,Erkek,18-30,Güneydoğu,Ön Lisans,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/11/2018 1:46:14,Erkek,18-30,Karadeniz,Lisans,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Hayır,Evet,Hayır,AKP
+5/11/2018 1:46:44,Kadın,18-30,Marmara,Lisans,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/11/2018 1:48:57,Erkek,18-30,Marmara,Lisans,Hayır,Evet,Hayır,Evet,Hayır,Evet,Evet,Evet,Evet,Evet,IYI PARTI
+5/11/2018 1:49:00,Erkek,0-18,Ege,Lise,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Hayır,DIĞER
+5/11/2018 1:49:50,Kadın,60+,Doğu Anadolu,İlkokul,Evet,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Hayır,HDP
+5/11/2018 1:55:21,Erkek,0-18,Karadeniz,Lise,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Evet,Evet,Evet,CHP
+5/11/2018 1:58:06,Erkek,18-30,Marmara,Lisans,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Evet,Evet,Evet,IYI PARTI
+5/11/2018 2:07:01,Erkek,18-30,Ege,Lisans,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,Evet,CHP
+5/11/2018 2:09:58,Erkek,18-30,Ege,Lisans,Hayır,Evet,Hayır,Evet,Evet,Evet,Evet,Evet,Hayır,Evet,AKP
+5/11/2018 2:13:20,Erkek,0-18,Akdeniz,Lise,Evet,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,Hayır,AKP
+5/11/2018 2:15:06,Erkek,18-30,Marmara,Lisans,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Evet,Evet,Evet,IYI PARTI
+5/11/2018 2:15:12,Erkek,0-18,Akdeniz,Lise,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/11/2018 2:15:40,Erkek,18-30,Marmara,Ön Lisans,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/11/2018 2:17:15,Erkek,0-18,İç Anadolu,Lisans,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/11/2018 2:21:02,Erkek,0-18,İç Anadolu,Lise,Evet,Hayır,Evet,Evet,Hayır,Evet,Hayır,Evet,Evet,Evet,DIĞER
+5/11/2018 2:47:36,Erkek,18-30,Marmara,Lise,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/11/2018 2:52:56,Erkek,30-50,Marmara,Lisans Üstü,Evet,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,Hayır,AKP
+5/11/2018 2:53:44,Erkek,18-30,Marmara,Lisans,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,Evet,Hayır,DIĞER
+5/11/2018 3:11:28,Erkek,18-30,Karadeniz,Lise,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Evet,Evet,Evet,DIĞER
+5/11/2018 4:04:20,Erkek,18-30,İç Anadolu,Lisans,Hayır,Evet,Evet,Evet,Hayır,Evet,Hayır,Evet,Evet,Evet,DIĞER
+5/11/2018 4:13:12,Erkek,18-30,Marmara,Lisans,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+5/11/2018 5:00:52,Erkek,30-50,Karadeniz,Lisans,Evet,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,Hayır,AKP
+5/11/2018 5:59:27,Erkek,18-30,Marmara,Ön Lisans,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/11/2018 6:30:12,Erkek,18-30,Marmara,Lise,Evet,Evet,Hayır,Evet,Hayır,Hayır,Hayır,Evet,Evet,Evet,CHP
+5/11/2018 6:36:48,Kadın,0-18,Marmara,İlkokul,Evet,Evet,Evet,Hayır,Evet,Evet,Hayır,Evet,Evet,Evet,AKP
+5/11/2018 6:53:33,Erkek,18-30,Doğu Anadolu,Lise,Evet,Evet,Hayır,Evet,Hayır,Evet,Evet,Evet,Hayır,Hayır,DIĞER
+5/11/2018 6:57:40,Erkek,30-50,Akdeniz,Lisans,Hayır,Evet,Evet,Evet,Hayır,Evet,Hayır,Evet,Evet,Evet,IYI PARTI
+5/11/2018 7:01:20,Kadın,18-30,Marmara,Lisans,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+5/11/2018 7:14:42,Erkek,18-30,Marmara,Lise,Evet,Evet,Evet,Hayır,Hayır,Evet,Evet,Hayır,Hayır,Evet,AKP
+5/11/2018 7:15:14,Erkek,18-30,Akdeniz,Ön Lisans,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,AKP
+5/11/2018 7:41:53,Erkek,30-50,Akdeniz,Lise,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Hayır,AKP
+5/11/2018 7:54:57,Erkek,0-18,İç Anadolu,Lise,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/11/2018 8:15:45,Erkek,0-18,Marmara,Lise,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Hayır,Hayır,Evet,Evet,IYI PARTI
+5/11/2018 8:18:43,Erkek,50-60,Marmara,Ortaokul,Evet,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,AKP
+5/11/2018 8:27:36,Erkek,0-18,Ege,Lise,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/11/2018 8:32:22,Erkek,30-50,Doğu Anadolu,İlkokul,Hayır,Hayır,Evet,Evet,Evet,Evet,Hayır,Hayır,Hayır,Hayır,AKP
+5/11/2018 8:42:17,Erkek,18-30,Doğu Anadolu,Lisans,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/11/2018 9:01:01,Erkek,0-18,Ege,Lise,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/11/2018 9:01:08,Erkek,0-18,Marmara,Lise,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/11/2018 9:09:08,Erkek,18-30,Marmara,Lisans,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Evet,Evet,Evet,CHP
+5/11/2018 9:09:14,Kadın,18-30,Marmara,Lisans,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/11/2018 9:14:30,Erkek,0-18,Akdeniz,Lise,Evet,Evet,Evet,Evet,Hayır,Evet,Evet,Evet,Evet,Hayır,DIĞER
+5/11/2018 9:15:33,Kadın,18-30,Marmara,Lisans,Evet,Evet,Hayır,Hayır,Hayır,Evet,Evet,Hayır,Evet,Evet,IYI PARTI
+5/11/2018 9:18:16,Erkek,0-18,Akdeniz,Lise,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,Evet,DIĞER
+5/11/2018 9:39:06,Erkek,30-50,Marmara,Ön Lisans,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Evet,Hayır,Evet,AKP
+5/11/2018 9:40:06,Erkek,18-30,Marmara,Lisans,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/11/2018 9:41:23,Erkek,18-30,Marmara,Lisans,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Hayır,Evet,Evet,CHP
+5/11/2018 9:48:58,Kadın,18-30,Marmara,Lisans,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/11/2018 9:59:38,Erkek,18-30,Karadeniz,Lise,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/11/2018 9:59:46,Erkek,0-18,Ege,Lise,Evet,Evet,Evet,Evet,Hayır,Evet,Evet,Evet,Evet,Evet,DIĞER
+5/11/2018 10:01:40,Erkek,18-30,Karadeniz,Lise,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Evet,Evet,Evet,IYI PARTI
+5/11/2018 10:16:39,Erkek,18-30,İç Anadolu,Lisans,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+5/11/2018 10:34:50,Erkek,0-18,Akdeniz,Lise,Hayır,Evet,Hayır,Evet,Hayır,Evet,Evet,Evet,Evet,Evet,CHP
+5/11/2018 10:41:04,Kadın,18-30,Marmara,Lisans,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+5/11/2018 11:08:43,Erkek,30-50,Ege,Lisans,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Evet,Hayır,Evet,AKP
+5/11/2018 11:09:46,Erkek,0-18,Ege,Lise,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/11/2018 11:17:27,Erkek,18-30,Marmara,Lise,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/11/2018 11:31:22,Kadın,18-30,Marmara,Lisans,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/11/2018 11:32:00,Kadın,18-30,Marmara,Lisans,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/11/2018 11:59:46,Kadın,18-30,Marmara,Lisans,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+5/11/2018 12:02:03,Erkek,18-30,Ege,Lisans,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/11/2018 12:03:27,Erkek,30-50,Marmara,Lisans Üstü,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/11/2018 12:22:10,Erkek,18-30,Marmara,Lisans Üstü,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Hayır,Evet,Evet,CHP
+5/11/2018 12:24:12,Kadın,60+,Güneydoğu,İlkokul,Evet,Hayır,Hayır,Evet,Evet,Evet,Hayır,Evet,Hayır,Hayır,AKP
+5/11/2018 12:45:03,Erkek,18-30,Marmara,Lisans,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/11/2018 12:54:21,Kadın,18-30,Ege,Lisans Üstü,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+5/11/2018 12:55:50,Erkek,18-30,Marmara,Lise,Evet,Evet,Evet,Evet,Hayır,Evet,Hayır,Hayır,Hayır,Evet,DIĞER
+5/11/2018 12:57:15,Kadın,18-30,Marmara,Lisans,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+5/11/2018 12:57:22,Erkek,18-30,Marmara,Ön Lisans,Evet,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,AKP
+5/11/2018 13:38:13,Erkek,18-30,Marmara,Lisans,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+5/11/2018 13:41:18,Erkek,0-18,Marmara,Lise,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Evet,Evet,Evet,CHP
+5/11/2018 13:41:41,Erkek,18-30,Marmara,Lisans Üstü,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/11/2018 14:24:00,Erkek,18-30,Marmara,Lise,Evet,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,Hayır,AKP
+5/11/2018 14:53:02,Erkek,18-30,Marmara,Lisans,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/11/2018 14:55:41,Erkek,0-18,Doğu Anadolu,Lise,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,Evet,Evet,MHP
+5/11/2018 15:32:18,Erkek,30-50,Marmara,Lisans,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/11/2018 15:46:36,Erkek,0-18,Akdeniz,Lise,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,Hayır,AKP
+5/11/2018 15:47:21,Erkek,30-50,Ege,Lisans,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Evet,Hayır,Evet,AKP
+5/11/2018 16:16:10,Erkek,0-18,Marmara,Lise,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Evet,Evet,Evet,IYI PARTI
+5/11/2018 16:23:03,Erkek,18-30,Marmara,Lisans,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+5/11/2018 16:43:36,Erkek,18-30,Marmara,Lisans,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/11/2018 16:49:43,Erkek,0-18,Marmara,Lise,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Evet,Evet,Evet,IYI PARTI
+5/11/2018 17:31:42,Erkek,18-30,İç Anadolu,Lisans,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/11/2018 18:55:27,Erkek,18-30,Ege,Lisans,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/11/2018 19:37:53,Kadın,30-50,Ege,Lisans Üstü,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+5/11/2018 20:00:29,Erkek,0-18,Marmara,Lise,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/11/2018 20:46:10,Erkek,18-30,Akdeniz,Lise,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Hayır,Hayır,AKP
+5/11/2018 21:58:23,Erkek,18-30,İç Anadolu,Lisans Üstü,Evet,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/11/2018 23:03:25,Erkek,30-50,Marmara,Lisans,Evet,Evet,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Hayır,Evet,AKP
+5/11/2018 23:03:47,Erkek,30-50,Marmara,Lisans Üstü,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,HDP
+5/11/2018 23:16:32,Erkek,30-50,Marmara,Lise,Hayır,Evet,Evet,Evet,Hayır,Evet,Hayır,Evet,Evet,Evet,DIĞER
+5/11/2018 23:52:11,Erkek,18-30,Marmara,Lisans,Evet,Evet,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,IYI PARTI
+5/11/2018 23:52:29,Kadın,18-30,Marmara,Lisans,Hayır,Evet,Evet,Hayır,Hayır,Evet,Evet,Evet,Evet,Evet,IYI PARTI
+5/11/2018 23:52:42,Erkek,18-30,Marmara,Lisans,Evet,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,AKP
+5/11/2018 23:53:03,Kadın,18-30,Marmara,Ön Lisans,Evet,Evet,Hayır,Evet,Hayır,Evet,Evet,Evet,Hayır,Evet,AKP
+5/11/2018 23:53:20,Erkek,18-30,Ege,Lisans,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Evet,Evet,Evet,DIĞER
+5/11/2018 23:53:33,Erkek,18-30,Marmara,Lisans,Evet,Evet,Evet,Evet,Hayır,Evet,Evet,Evet,Hayır,Evet,IYI PARTI
+5/11/2018 23:53:51,Kadın,18-30,Marmara,Lisans,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Hayır,Hayır,Hayır,AKP
+5/11/2018 23:54:21,Kadın,18-30,Marmara,Lise,Evet,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,Hayır,AKP
+5/11/2018 23:54:57,Erkek,18-30,Marmara,Lisans,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Evet,Evet,Evet,DIĞER
+5/11/2018 23:57:03,Erkek,18-30,İç Anadolu,Lisans,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+5/11/2018 23:58:58,Erkek,18-30,İç Anadolu,Lise,Hayır,Evet,Hayır,Evet,Hayır,Evet,Evet,Hayır,Evet,Hayır,CHP
+5/11/2018 23:59:04,Erkek,18-30,Ege,Lisans Üstü,Hayır,Evet,Evet,Hayır,Hayır,Evet,Evet,Hayır,Evet,Evet,CHP
+5/12/2018 0:01:09,Erkek,18-30,Akdeniz,Lise,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/12/2018 0:01:24,Erkek,18-30,Marmara,Lisans,Evet,Evet,Evet,Evet,Hayır,Hayır,Evet,Evet,Hayır,Evet,AKP
+5/12/2018 0:02:30,Erkek,30-50,Ege,Ön Lisans,Evet,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,AKP
+5/12/2018 0:03:23,Erkek,18-30,Marmara,Lisans,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/12/2018 0:03:29,Erkek,18-30,Marmara,Lisans,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/12/2018 0:09:06,Kadın,18-30,Marmara,Lisans,Hayır,Hayır,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/12/2018 0:17:00,Erkek,18-30,Marmara,Lisans,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/12/2018 0:20:57,Erkek,30-50,Akdeniz,Lisans,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/12/2018 1:10:38,Erkek,18-30,Marmara,Lisans,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+5/12/2018 1:16:42,Erkek,0-18,Marmara,Lise,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/12/2018 1:27:29,Erkek,0-18,Marmara,Ortaokul,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/12/2018 1:44:55,Erkek,18-30,Marmara,Lisans,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Hayır,CHP
+5/12/2018 7:27:37,Kadın,18-30,Marmara,Lisans,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Hayır,CHP
+5/12/2018 9:52:07,Kadın,18-30,Marmara,Lisans,Evet,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,AKP
+5/12/2018 11:52:10,Erkek,18-30,Marmara,Lisans,Evet,Evet,Hayır,Evet,Hayır,Evet,Evet,Evet,Evet,Evet,IYI PARTI
+5/12/2018 12:54:35,Erkek,30-50,Güneydoğu,Lisans Üstü,Evet,Evet,Evet,Evet,Hayır,Evet,Evet,Hayır,Evet,Evet,IYI PARTI
+5/12/2018 13:25:00,Erkek,18-30,Marmara,Lisans,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,Evet,Evet,AKP
+5/12/2018 13:48:55,Erkek,18-30,Akdeniz,Lisans,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Evet,Evet,Hayır,CHP
+5/12/2018 13:51:13,Kadın,0-18,Ege,Lise,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Evet,Evet,Hayır,IYI PARTI
+5/12/2018 14:07:47,Erkek,18-30,Ege,Lise,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,AKP
+5/12/2018 14:40:38,Erkek,0-18,Marmara,Lise,Hayır,Evet,Hayır,Evet,Hayır,Evet,Evet,Evet,Hayır,Evet,MHP
+5/12/2018 14:41:10,Erkek,18-30,Marmara,Lise,Hayır,Evet,Evet,Evet,Hayır,Evet,Hayır,Hayır,Hayır,Evet,IYI PARTI
+5/12/2018 14:45:18,Erkek,30-50,Ege,Lise,Evet,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,HDP
+5/12/2018 15:15:35,Erkek,0-18,Karadeniz,Lise,Evet,Evet,Hayır,Evet,Hayır,Evet,Evet,Hayır,Evet,Evet,DIĞER
+5/12/2018 15:30:48,Erkek,0-18,Marmara,Lise,Hayır,Evet,Evet,Evet,Hayır,Evet,Hayır,Evet,Evet,Hayır,IYI PARTI
+5/12/2018 15:46:52,Erkek,0-18,Marmara,Lise,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Hayır,Hayır,Evet,DIĞER
+5/12/2018 15:51:36,Erkek,30-50,Akdeniz,Ön Lisans,Evet,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,MHP
+5/12/2018 16:07:52,Kadın,0-18,İç Anadolu,Ortaokul,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+5/12/2018 17:26:04,Erkek,18-30,Marmara,Lisans,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/12/2018 17:26:14,Erkek,18-30,Marmara,Ön Lisans,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+5/12/2018 17:30:16,Erkek,0-18,Marmara,Lise,Evet,Evet,Evet,Evet,Hayır,Evet,Evet,Hayır,Evet,Evet,DIĞER
+5/12/2018 18:58:23,Kadın,0-18,Marmara,Ortaokul,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+5/12/2018 20:42:50,Erkek,0-18,Akdeniz,Lise,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/12/2018 20:46:43,Erkek,0-18,Marmara,Lise,Hayır,Evet,Hayır,Hayır,Hayır,Evet,Evet,Hayır,Evet,Evet,DIĞER
+5/12/2018 20:52:15,Erkek,18-30,Marmara,Lisans,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/12/2018 21:42:42,Kadın,60+,Güneydoğu,Lisans Üstü,Hayır,Evet,Evet,Hayır,Hayır,Evet,Evet,Evet,Evet,Evet,IYI PARTI
+5/12/2018 22:32:36,Erkek,18-30,Marmara,Ön Lisans,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,Hayır,DIĞER
+5/12/2018 22:46:21,Erkek,18-30,Marmara,Lisans,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,HDP
+5/12/2018 22:46:41,Erkek,18-30,İç Anadolu,Lisans,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/12/2018 22:53:23,Kadın,18-30,Marmara,Lisans,Hayır,Evet,Evet,Hayır,Hayır,Evet,Evet,Hayır,Evet,Evet,IYI PARTI
+5/12/2018 22:53:33,Erkek,0-18,İç Anadolu,Lise,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Evet,Evet,Evet,CHP
+5/12/2018 22:54:38,Erkek,18-30,Marmara,Lisans,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Hayır,DIĞER
+5/12/2018 22:58:12,Erkek,18-30,Ege,Lise,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Evet,Hayır,Evet,DIĞER
+5/12/2018 23:01:31,Kadın,18-30,Ege,Lisans,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Hayır,Evet,DIĞER
+5/12/2018 23:01:41,Erkek,18-30,Marmara,Lisans,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,Evet,Evet,DIĞER
+5/12/2018 23:13:31,Erkek,18-30,Marmara,Lisans,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/12/2018 23:14:10,Erkek,18-30,Marmara,Lisans,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+5/12/2018 23:18:32,Erkek,30-50,Marmara,Lisans,Evet,Evet,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Evet,AKP
+5/12/2018 23:20:42,Erkek,18-30,Marmara,Lisans,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,Evet,IYI PARTI
+5/13/2018 0:00:26,Erkek,0-18,İç Anadolu,Lise,Hayır,Evet,Evet,Hayır,Hayır,Evet,Evet,Evet,Evet,Evet,DIĞER
+5/13/2018 0:00:36,Erkek,0-18,Karadeniz,Lise,Evet,Evet,Evet,Hayır,Hayır,Evet,Evet,Hayır,Hayır,Hayır,DIĞER
+5/13/2018 0:06:12,Erkek,18-30,İç Anadolu,Lisans,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+5/13/2018 0:13:18,Erkek,18-30,Marmara,Ön Lisans,Evet,Evet,Evet,Evet,Hayır,Hayır,Evet,Evet,Hayır,Evet,MHP
+5/13/2018 0:22:47,Erkek,0-18,Karadeniz,Lise,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,Evet,CHP
+5/13/2018 2:34:12,Erkek,18-30,Marmara,Lisans,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+5/13/2018 20:26:16,Erkek,50-60,Marmara,Ön Lisans,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,MHP
+5/13/2018 21:02:06,Erkek,18-30,Marmara,Lisans,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,HDP
+5/13/2018 21:20:14,Erkek,50-60,Marmara,Lise,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+5/13/2018 23:02:35,Kadın,30-50,Marmara,Lise,Hayır,Evet,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Evet,DIĞER
+5/13/2018 23:04:03,Kadın,30-50,Marmara,Ortaokul,Hayır,Evet,Evet,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,AKP
+5/13/2018 23:05:59,Kadın,60+,Marmara,İlkokul,Evet,Evet,Hayır,Evet,Evet,Evet,Evet,Hayır,Hayır,Hayır,AKP
+5/13/2018 23:07:16,Erkek,60+,Marmara,İlkokul,Evet,Evet,Hayır,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,AKP
+5/14/2018 0:13:24,Erkek,18-30,Marmara,Lisans,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/14/2018 16:15:57,Erkek,18-30,Karadeniz,Lisans,Evet,Evet,Evet,Evet,Hayır,Hayır,Evet,Evet,Hayır,Hayır,MHP
+5/14/2018 20:53:18,Kadın,18-30,Marmara,Lisans,Evet,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,AKP
+5/14/2018 20:54:11,Erkek,0-18,Ege,Lisans Üstü,Evet,Evet,Hayır,Evet,Evet,Hayır,Evet,Hayır,Evet,Evet,AKP
+5/15/2018 0:49:01,Erkek,18-30,Marmara,Lise,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/15/2018 1:26:32,Erkek,18-30,Marmara,Lisans,Hayır,Evet,Evet,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,AKP
+5/15/2018 19:11:27,Kadın,18-30,Marmara,Lisans,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,Evet,CHP
+5/16/2018 10:38:18,Erkek,18-30,İç Anadolu,Lisans,Hayır,Evet,Evet,Hayır,Hayır,Evet,Evet,Hayır,Evet,Evet,IYI PARTI
+5/16/2018 10:39:32,Erkek,18-30,Güneydoğu,Lisans,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Hayır,Evet,Evet,IYI PARTI
+5/16/2018 18:53:57,Erkek,0-18,Akdeniz,Lise,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/16/2018 21:37:16,Erkek,0-18,Doğu Anadolu,Ön Lisans,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,Hayır,Hayır,Hayır,IYI PARTI
+5/16/2018 21:45:30,Erkek,0-18,Karadeniz,Lise,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Hayır,IYI PARTI
+5/17/2018 12:04:13,Erkek,18-30,Marmara,Lisans,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/17/2018 12:58:52,Erkek,30-50,Marmara,Lisans,Hayır,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Evet,Evet,DIĞER
+5/17/2018 15:51:46,Erkek,18-30,İç Anadolu,Lisans Üstü,Hayır,Evet,Hayır,Hayır,Hayır,Evet,Evet,Hayır,Hayır,Evet,DIĞER
+5/18/2018 22:59:13,Erkek,0-18,Ege,Ortaokul,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,HDP
+5/19/2018 21:27:46,Erkek,0-18,Marmara,Lise,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,DIĞER
+5/19/2018 22:31:59,Erkek,0-18,Akdeniz,Lise,Evet,Evet,Evet,Evet,Evet,Evet,Evet,Evet,Evet,Evet,AKP
+5/20/2018 1:27:49,Erkek,18-30,İç Anadolu,Lisans,Evet,Evet,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,AKP
+5/20/2018 1:30:00,Erkek,0-18,Marmara,Ortaokul,Evet,Evet,Evet,Evet,Evet,Evet,Hayır,Hayır,Hayır,Hayır,AKP
+5/20/2018 2:43:00,Erkek,18-30,Marmara,Lise,Evet,Hayır,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,Hayır,AKP
+5/20/2018 2:46:18,Kadın,30-50,Marmara,Lise,Evet,Evet,Hayır,Evet,Hayır,Evet,Evet,Evet,Hayır,Hayır,AKP
+5/20/2018 2:48:01,Kadın,30-50,Marmara,Lise,Hayır,Evet,Hayır,Evet,Evet,Evet,Hayır,Evet,Hayır,Hayır,AKP
+5/20/2018 2:48:56,Erkek,30-50,Marmara,Lise,Evet,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,Hayır,AKP
+5/20/2018 2:50:26,Kadın,30-50,Ege,Lise,Evet,Evet,Evet,Evet,Evet,Evet,Hayır,Evet,Hayır,Hayır,AKP
+5/20/2018 2:52:11,Erkek,0-18,Akdeniz,Lise,Evet,Evet,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,AKP
+5/20/2018 2:52:29,Erkek,18-30,Marmara,Lisans,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/20/2018 2:52:39,Erkek,18-30,Marmara,Lise,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Hayır,Evet,Evet,IYI PARTI
+5/20/2018 2:52:54,Erkek,30-50,Akdeniz,İlkokul,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Evet,Evet,Evet,CHP
+5/20/2018 2:54:01,Erkek,30-50,Ege,Lise,Evet,Hayır,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,Hayır,AKP
+5/20/2018 2:54:20,Erkek,30-50,Marmara,Ön Lisans,Evet,Evet,Hayır,Evet,Evet,Evet,Hayır,Hayır,Hayır,Hayır,AKP
+5/20/2018 2:59:22,Kadın,30-50,Marmara,Ortaokul,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/20/2018 3:01:52,Kadın,50-60,Marmara,Ön Lisans,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,Evet,CHP
+5/20/2018 3:02:08,Erkek,18-30,Karadeniz,Lisans Üstü,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/20/2018 3:02:31,Erkek,30-50,Ege,Lise,Evet,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,AKP
+5/20/2018 3:04:02,Erkek,50-60,Marmara,Lisans,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Evet,Evet,Evet,CHP
+5/20/2018 3:05:14,Erkek,30-50,Güneydoğu,Ortaokul,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Evet,Evet,Evet,IYI PARTI
+5/20/2018 3:06:38,Erkek,30-50,Marmara,Lise,Evet,Hayır,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,Hayır,AKP
+5/20/2018 3:17:19,Erkek,18-30,İç Anadolu,Lisans,Evet,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/20/2018 3:24:53,Erkek,30-50,Ege,Lise,Hayır,Evet,Evet,Hayır,Hayır,Evet,Evet,Hayır,Evet,Evet,IYI PARTI
+5/20/2018 3:27:37,Erkek,0-18,Akdeniz,Lise,Hayır,Evet,Hayır,Evet,Evet,Evet,Hayır,Evet,Hayır,Hayır,AKP
+5/20/2018 4:15:15,Erkek,30-50,Marmara,Lise,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/20/2018 12:34:50,Erkek,18-30,Ege,Lisans,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/20/2018 14:31:45,Erkek,18-30,İç Anadolu,Ön Lisans,Evet,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,AKP
+5/20/2018 15:45:51,Kadın,18-30,Marmara,Lisans,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/20/2018 16:14:33,Erkek,18-30,İç Anadolu,Lisans,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/20/2018 17:49:09,Erkek,18-30,Marmara,Lise,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/20/2018 17:55:07,Erkek,0-18,Akdeniz,Lisans Üstü,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+5/20/2018 17:55:16,Erkek,18-30,Ege,Lise,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/20/2018 17:56:09,Erkek,18-30,Ege,Lise,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/20/2018 17:56:12,Erkek,18-30,Marmara,Lisans Üstü,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Hayır,IYI PARTI
+5/20/2018 17:57:37,Erkek,30-50,Ege,Ortaokul,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/20/2018 17:59:51,Erkek,30-50,Marmara,Lisans,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Hayır,Evet,Evet,IYI PARTI
+5/20/2018 18:00:57,Erkek,60+,Marmara,Lisans,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Evet,Evet,Evet,IYI PARTI
+5/20/2018 18:04:16,Erkek,30-50,Ege,Ön Lisans,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/20/2018 18:33:17,Erkek,30-50,İç Anadolu,Lisans Üstü,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/20/2018 18:34:36,Erkek,60+,Akdeniz,Ön Lisans,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Evet,Evet,Evet,IYI PARTI
+5/20/2018 22:14:34,Erkek,0-18,Marmara,Lise,Hayır,Hayır,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+5/21/2018 1:36:43,Erkek,30-50,İç Anadolu,Lise,Evet,Evet,Hayır,Evet,Evet,Evet,Hayır,Evet,Hayır,Hayır,AKP
+5/21/2018 1:37:38,Erkek,18-30,Marmara,Ortaokul,Evet,Evet,Hayır,Evet,Evet,Evet,Hayır,Evet,Hayır,Hayır,AKP
+5/21/2018 1:39:55,Erkek,30-50,Ege,İlkokul,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Hayır,Evet,Evet,IYI PARTI
+5/21/2018 1:40:39,Erkek,30-50,Marmara,Lise,Evet,Hayır,Hayır,Evet,Evet,Evet,Hayır,Hayır,Hayır,Hayır,AKP
+5/21/2018 1:41:48,Erkek,30-50,Marmara,İlkokul,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Evet,Evet,Evet,IYI PARTI
+5/21/2018 1:41:57,Erkek,18-30,Akdeniz,Lise,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Evet,Evet,Evet,IYI PARTI
+5/21/2018 1:45:54,Erkek,18-30,Marmara,Lise,Hayır,Hayır,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Evet,HDP
+5/21/2018 2:10:26,Kadın,50-60,Akdeniz,Lisans,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/21/2018 2:11:31,Erkek,30-50,Marmara,Lise,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,HDP
+5/21/2018 2:20:22,Erkek,30-50,Marmara,Lisans Üstü,Evet,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Evet,DIĞER
+5/21/2018 2:26:23,Erkek,30-50,Marmara,Lisans Üstü,Hayır,Evet,Evet,Evet,Evet,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/21/2018 2:35:08,Kadın,50-60,Akdeniz,Lisans,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/21/2018 2:36:13,Kadın,30-50,Ege,Lise,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/21/2018 2:51:15,Erkek,30-50,İç Anadolu,Lise,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Evet,Evet,Evet,IYI PARTI
+5/21/2018 3:14:56,Erkek,18-30,Marmara,Lise,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Hayır,Evet,Evet,IYI PARTI
+5/21/2018 3:16:08,Erkek,30-50,Ege,Lisans,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/21/2018 3:19:14,Erkek,30-50,Marmara,Lise,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Hayır,Evet,Evet,IYI PARTI
+5/21/2018 3:20:06,Erkek,30-50,Marmara,Lise,Hayır,Evet,Evet,Hayır,Hayır,Evet,Evet,Evet,Evet,Evet,IYI PARTI
+5/21/2018 3:20:10,Erkek,50-60,İç Anadolu,Ön Lisans,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/21/2018 3:24:18,Kadın,50-60,Ege,Lise,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Hayır,Evet,Evet,IYI PARTI
+5/21/2018 3:28:12,Erkek,30-50,Marmara,Lise,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Hayır,Hayır,Evet,IYI PARTI
+5/21/2018 4:22:21,Erkek,30-50,İç Anadolu,Lisans,Evet,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,Evet,Evet,IYI PARTI
+5/21/2018 5:40:27,Erkek,18-30,İç Anadolu,Ön Lisans,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/21/2018 7:15:02,Kadın,18-30,Marmara,Ön Lisans,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/21/2018 10:12:59,Kadın,50-60,Akdeniz,Lisans,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/21/2018 10:15:48,Kadın,50-60,Akdeniz,Lisans,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/21/2018 10:19:24,Kadın,50-60,Akdeniz,Lisans,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/21/2018 10:21:02,Kadın,50-60,Akdeniz,Lisans,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/21/2018 11:47:50,Erkek,60+,Marmara,Lisans,Evet,Evet,Evet,Evet,Hayır,Evet,Evet,Evet,Evet,Evet,IYI PARTI
+5/21/2018 11:52:46,Erkek,60+,Marmara,Lisans,Evet,Evet,Evet,Evet,Hayır,Evet,Evet,Evet,Evet,Evet,IYI PARTI
+5/21/2018 12:38:22,Erkek,50-60,Marmara,Lise,Evet,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,Hayır,AKP
+5/21/2018 12:40:19,Kadın,30-50,Karadeniz,Ortaokul,Evet,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,Hayır,AKP
+5/21/2018 14:24:12,Kadın,18-30,Marmara,Ön Lisans,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/21/2018 14:26:11,Erkek,30-50,Ege,Lise,Hayır,Evet,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Evet,IYI PARTI
+5/21/2018 14:26:22,Erkek,30-50,Karadeniz,Lisans,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Evet,Evet,Evet,IYI PARTI
+5/21/2018 14:27:27,Erkek,50-60,Marmara,Ön Lisans,Hayır,Evet,Evet,Hayır,Hayır,Evet,Evet,Hayır,Evet,Evet,CHP
+5/21/2018 14:27:59,Erkek,18-30,Doğu Anadolu,Lisans Üstü,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/21/2018 14:30:41,Erkek,50-60,Karadeniz,Lisans Üstü,Evet,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/21/2018 14:31:24,Erkek,30-50,Akdeniz,Lisans,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/21/2018 14:34:23,Erkek,0-18,Marmara,Lise,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/21/2018 14:34:43,Erkek,18-30,Karadeniz,Lisans Üstü,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/21/2018 14:35:18,Kadın,30-50,İç Anadolu,Lisans,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/21/2018 14:36:08,Erkek,18-30,Karadeniz,Lisans,Evet,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,Hayır,AKP
+5/21/2018 14:36:30,Kadın,30-50,Marmara,Lise,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Hayır,Evet,Evet,IYI PARTI
+5/21/2018 14:36:48,Erkek,30-50,Marmara,Ortaokul,Evet,Hayır,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,Hayır,AKP
+5/21/2018 14:36:51,Erkek,18-30,Marmara,Lisans,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/21/2018 14:37:44,Erkek,18-30,Marmara,Ön Lisans,Evet,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,Hayır,AKP
+5/21/2018 14:37:45,Erkek,30-50,Akdeniz,Lise,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/21/2018 14:42:26,Erkek,18-30,Ege,Lise,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/21/2018 14:43:10,Erkek,30-50,İç Anadolu,Lise,Evet,Hayır,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,Hayır,AKP
+5/21/2018 14:44:44,Erkek,30-50,Ege,Ortaokul,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Evet,Evet,Evet,DIĞER
+5/21/2018 14:45:09,Erkek,18-30,Güneydoğu,Lisans,Evet,Evet,Evet,Evet,Hayır,Evet,Hayır,Evet,Evet,Evet,DIĞER
+5/21/2018 14:45:13,Erkek,30-50,Akdeniz,Lisans,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/21/2018 14:45:20,Erkek,30-50,Akdeniz,Lisans,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/21/2018 14:46:03,Erkek,30-50,İç Anadolu,Ortaokul,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Evet,Evet,Evet,IYI PARTI
+5/21/2018 14:49:30,Erkek,0-18,Güneydoğu,Lisans,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,Hayır,AKP
+5/21/2018 14:49:59,Erkek,0-18,Ege,Lisans Üstü,Evet,Evet,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Evet,CHP
+5/21/2018 14:50:20,Erkek,30-50,İç Anadolu,Ortaokul,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Evet,Evet,Evet,IYI PARTI
+5/21/2018 14:50:24,Erkek,18-30,Karadeniz,Lise,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Evet,Evet,Evet,IYI PARTI
+5/21/2018 14:51:44,Erkek,30-50,Karadeniz,Lisans,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/21/2018 14:53:54,Erkek,18-30,Doğu Anadolu,Lisans,Hayır,Evet,Evet,Hayır,Hayır,Evet,Evet,Hayır,Evet,Evet,HDP
+5/21/2018 14:57:10,Erkek,50-60,Marmara,Lise,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/21/2018 14:57:13,Erkek,30-50,Akdeniz,İlkokul,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/21/2018 15:00:35,Erkek,30-50,Ege,Lise,Evet,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/21/2018 15:05:52,Erkek,30-50,Ege,Lise,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Evet,Evet,Evet,IYI PARTI
+5/21/2018 15:07:02,Erkek,30-50,İç Anadolu,Lise,Hayır,Evet,Evet,Hayır,Hayır,Evet,Evet,Hayır,Evet,Evet,CHP
+5/21/2018 15:23:24,Erkek,0-18,Akdeniz,Lise,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,Hayır,AKP
+5/21/2018 15:27:57,Erkek,18-30,Marmara,Ön Lisans,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/21/2018 15:29:46,Erkek,18-30,Ege,Lisans,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Evet,Evet,Evet,DIĞER
+5/21/2018 15:33:51,Erkek,18-30,Marmara,Lisans,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/21/2018 16:20:21,Erkek,30-50,Doğu Anadolu,Lisans,Hayır,Evet,Hayır,Evet,Evet,Evet,Hayır,Hayır,Hayır,Hayır,AKP
+5/21/2018 16:27:12,Erkek,18-30,Akdeniz,Lisans,Evet,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/21/2018 16:35:50,Erkek,50-60,Karadeniz,Lisans,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/21/2018 18:01:54,Erkek,18-30,Ege,Ön Lisans,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,AKP
+5/21/2018 19:53:03,Erkek,50-60,İç Anadolu,Ön Lisans,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/21/2018 22:03:58,Erkek,50-60,İç Anadolu,Ön Lisans,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/21/2018 22:08:15,Erkek,50-60,İç Anadolu,Ön Lisans,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/21/2018 22:09:16,Erkek,50-60,İç Anadolu,Ön Lisans,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/22/2018 0:20:12,Erkek,18-30,Marmara,Ortaokul,Hayır,Hayır,Hayır,Evet,Evet,Hayır,Evet,Evet,Evet,Evet,IYI PARTI
+5/22/2018 0:20:42,Erkek,30-50,Doğu Anadolu,Ön Lisans,Evet,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 0:23:13,Erkek,18-30,Marmara,Lisans Üstü,Evet,Hayır,Hayır,Hayır,Evet,Evet,Hayır,Evet,Hayır,Hayır,AKP
+5/22/2018 0:23:57,Erkek,18-30,Marmara,Lisans Üstü,Evet,Evet,Evet,Hayır,Hayır,Evet,Evet,Evet,Evet,Evet,AKP
+5/22/2018 0:24:51,Erkek,30-50,Marmara,Lisans,Evet,Evet,Evet,Evet,Hayır,Evet,Evet,Evet,Evet,Evet,IYI PARTI
+5/22/2018 0:27:11,Erkek,30-50,Akdeniz,Lise,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Hayır,Evet,Evet,IYI PARTI
+5/22/2018 0:27:27,Erkek,30-50,Marmara,Ortaokul,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/22/2018 0:30:28,Erkek,18-30,Ege,Lise,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/22/2018 0:30:31,Erkek,18-30,Ege,Lise,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Evet,Evet,Evet,IYI PARTI
+5/22/2018 0:31:06,Erkek,18-30,Marmara,Lisans,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/22/2018 0:31:10,Erkek,0-18,Marmara,Lise,Evet,Hayır,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/22/2018 0:31:13,Erkek,18-30,Akdeniz,Lise,Evet,Evet,Evet,Hayır,Hayır,Evet,Evet,Evet,Hayır,Evet,IYI PARTI
+5/22/2018 0:31:17,Erkek,0-18,Ege,Lise,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Evet,Evet,Evet,DIĞER
+5/22/2018 0:31:28,Erkek,18-30,Marmara,Lise,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Evet,Evet,Evet,CHP
+5/22/2018 0:31:41,Erkek,18-30,Marmara,Lise,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Evet,CHP
+5/22/2018 0:32:17,Erkek,0-18,Marmara,Lise,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 0:32:18,Erkek,18-30,Akdeniz,Lise,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/22/2018 0:32:29,Erkek,0-18,Ege,Lise,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,Evet,DIĞER
+5/22/2018 0:32:55,Erkek,18-30,Marmara,Lise,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Hayır,Evet,DIĞER
+5/22/2018 0:33:09,Erkek,0-18,Akdeniz,Lise,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/22/2018 0:33:31,Erkek,0-18,Akdeniz,Lise,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Hayır,DIĞER
+5/22/2018 0:33:45,Erkek,0-18,Marmara,Lise,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Evet,Evet,Hayır,IYI PARTI
+5/22/2018 0:33:58,Erkek,0-18,Marmara,Lise,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,Evet,IYI PARTI
+5/22/2018 0:34:04,Erkek,0-18,Marmara,Lise,Hayır,Evet,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Hayır,Evet,AKP
+5/22/2018 0:34:06,Erkek,0-18,Marmara,Lise,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Hayır,MHP
+5/22/2018 0:34:20,Erkek,18-30,Marmara,Lise,Evet,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,Evet,Evet,DIĞER
+5/22/2018 0:34:32,Erkek,18-30,Marmara,Lise,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 0:34:39,Erkek,18-30,Doğu Anadolu,Lise,Evet,Evet,Hayır,Hayır,Hayır,Evet,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 0:34:44,Erkek,0-18,Marmara,Lise,Hayır,Evet,Evet,Hayır,Hayır,Evet,Evet,Hayır,Evet,Evet,DIĞER
+5/22/2018 0:34:45,Erkek,0-18,Marmara,Lise,Evet,Evet,Evet,Evet,Hayır,Hayır,Evet,Evet,Evet,Hayır,AKP
+5/22/2018 0:34:45,Erkek,0-18,Marmara,Lise,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 0:34:46,Erkek,18-30,Marmara,Lise,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Hayır,CHP
+5/22/2018 0:35:04,Erkek,0-18,Marmara,Lise,Hayır,Evet,Evet,Evet,Hayır,Evet,Hayır,Evet,Hayır,Hayır,AKP
+5/22/2018 0:35:27,Erkek,0-18,Marmara,Lise,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+5/22/2018 0:35:32,Erkek,0-18,Güneydoğu,Lise,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 0:35:34,Kadın,0-18,Marmara,Lise,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Evet,Hayır,Hayır,AKP
+5/22/2018 0:35:39,Erkek,18-30,İç Anadolu,Lisans,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 0:35:40,Erkek,18-30,Akdeniz,Ön Lisans,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 0:35:45,Erkek,18-30,Ege,Lise,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Evet,Hayır,Evet,DIĞER
+5/22/2018 0:35:48,Erkek,18-30,Akdeniz,Lise,Hayır,Evet,Evet,Hayır,Hayır,Evet,Evet,Hayır,Evet,Evet,AKP
+5/22/2018 0:36:09,Erkek,0-18,Doğu Anadolu,Lise,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Evet,Evet,Evet,IYI PARTI
+5/22/2018 0:36:09,Erkek,18-30,Marmara,Ön Lisans,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Evet,DIĞER
+5/22/2018 0:36:24,Erkek,0-18,Marmara,Lise,Evet,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Hayır,AKP
+5/22/2018 0:36:44,Erkek,18-30,Marmara,Lise,Hayır,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,DIĞER
+5/22/2018 0:36:47,Erkek,18-30,Marmara,Lisans,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Hayır,Evet,AKP
+5/22/2018 0:36:58,Erkek,0-18,Ege,Lise,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+5/22/2018 0:37:01,Erkek,0-18,Karadeniz,Lise,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Hayır,Hayır,Hayır,Evet,CHP
+5/22/2018 0:37:13,Erkek,18-30,Marmara,Lisans,Hayır,Evet,Evet,Evet,Hayır,Evet,Hayır,Evet,Hayır,Hayır,AKP
+5/22/2018 0:37:22,Erkek,0-18,İç Anadolu,Lise,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,Evet,CHP
+5/22/2018 0:37:37,Erkek,18-30,İç Anadolu,Lise,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Evet,Hayır,Evet,DIĞER
+5/22/2018 0:37:47,Erkek,18-30,Marmara,Lise,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Hayır,IYI PARTI
+5/22/2018 0:38:14,Erkek,0-18,İç Anadolu,Lise,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/22/2018 0:38:21,Kadın,18-30,Marmara,Lise,Evet,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+5/22/2018 0:38:26,Erkek,0-18,Marmara,Lise,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Evet,Evet,Evet,CHP
+5/22/2018 0:38:48,Erkek,0-18,Ege,Lise,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,Hayır,IYI PARTI
+5/22/2018 0:38:49,Erkek,18-30,Marmara,Ortaokul,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 0:39:05,Erkek,0-18,Marmara,Lisans,Evet,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Evet,CHP
+5/22/2018 0:39:26,Erkek,18-30,İç Anadolu,Lise,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/22/2018 0:39:44,Kadın,18-30,Marmara,Ön Lisans,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,MHP
+5/22/2018 0:39:48,Erkek,18-30,İç Anadolu,Ön Lisans,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 0:39:57,Erkek,0-18,İç Anadolu,Lise,Evet,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/22/2018 0:40:01,Erkek,18-30,Marmara,Lise,Evet,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Evet,IYI PARTI
+5/22/2018 0:40:35,Erkek,18-30,Ege,Lise,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/22/2018 0:40:48,Erkek,0-18,Marmara,Lise,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,AKP
+5/22/2018 0:41:23,Erkek,18-30,Ege,Lise,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Evet,Evet,Evet,DIĞER
+5/22/2018 0:41:24,Erkek,0-18,Marmara,Lise,Hayır,Evet,Hayır,Hayır,Hayır,Evet,Evet,Hayır,Evet,Hayır,DIĞER
+5/22/2018 0:41:30,Erkek,0-18,Marmara,Lise,Hayır,Evet,Hayır,Evet,Hayır,Evet,Evet,Hayır,Hayır,Evet,AKP
+5/22/2018 0:41:32,Erkek,0-18,Akdeniz,Lise,Evet,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Evet,IYI PARTI
+5/22/2018 0:42:20,Erkek,18-30,Karadeniz,Ön Lisans,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Hayır,Hayır,DIĞER
+5/22/2018 0:42:30,Erkek,0-18,İç Anadolu,Lise,Evet,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 0:42:42,Erkek,0-18,İç Anadolu,Lise,Evet,Evet,Hayır,Evet,Hayır,Evet,Evet,Evet,Evet,Hayır,DIĞER
+5/22/2018 0:42:45,Erkek,0-18,İç Anadolu,Lise,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Evet,MHP
+5/22/2018 0:42:47,Erkek,18-30,Ege,Lise,Evet,Evet,Evet,Evet,Hayır,Evet,Hayır,Evet,Evet,Evet,IYI PARTI
+5/22/2018 0:42:57,Erkek,0-18,Marmara,Lise,Evet,Evet,Evet,Evet,Hayır,Evet,Evet,Hayır,Evet,Evet,DIĞER
+5/22/2018 0:43:08,Erkek,0-18,Güneydoğu,Lise,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/22/2018 0:43:09,Kadın,30-50,Marmara,Lise,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 0:43:12,Erkek,0-18,Marmara,Lise,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,Evet,Hayır,AKP
+5/22/2018 0:43:23,Erkek,0-18,Ege,Lise,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,CHP
+5/22/2018 0:43:36,Erkek,0-18,Marmara,Lise,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Hayır,CHP
+5/22/2018 0:43:56,Erkek,0-18,Marmara,Lise,Hayır,Evet,Hayır,Evet,Hayır,Evet,Evet,Evet,Evet,Evet,CHP
+5/22/2018 0:44:04,Erkek,0-18,Karadeniz,Lise,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Evet,Evet,Evet,IYI PARTI
+5/22/2018 0:44:10,Erkek,18-30,Marmara,Lise,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 0:45:08,Erkek,18-30,Ege,Lisans,Evet,Evet,Evet,Hayır,Hayır,Evet,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 0:45:11,Erkek,0-18,Marmara,Lise,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Hayır,IYI PARTI
+5/22/2018 0:45:26,Erkek,0-18,Marmara,Lise,Evet,Evet,Hayır,Evet,Hayır,Evet,Evet,Hayır,Evet,Evet,DIĞER
+5/22/2018 0:45:30,Erkek,18-30,Marmara,Ön Lisans,Evet,Evet,Hayır,Evet,Hayır,Evet,Evet,Evet,Evet,Hayır,DIĞER
+5/22/2018 0:45:44,Erkek,0-18,Marmara,Lise,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Evet,DIĞER
+5/22/2018 0:45:47,Erkek,0-18,Marmara,Lise,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+5/22/2018 0:46:04,Erkek,18-30,Marmara,Lise,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Evet,MHP
+5/22/2018 0:46:20,Erkek,0-18,Ege,Lise,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 0:46:21,Kadın,30-50,Marmara,Lise,Hayır,Evet,Evet,Evet,Evet,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 0:46:52,Erkek,0-18,Marmara,Lise,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/22/2018 0:47:23,Erkek,0-18,Ege,Lise,Evet,Evet,Hayır,Evet,Hayır,Evet,Evet,Hayır,Evet,Evet,IYI PARTI
+5/22/2018 0:47:27,Erkek,18-30,Marmara,Lisans,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 0:47:38,Erkek,0-18,Akdeniz,Lise,Evet,Evet,Hayır,Evet,Hayır,Evet,Evet,Hayır,Evet,Evet,IYI PARTI
+5/22/2018 0:47:39,Erkek,0-18,Marmara,Lise,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Evet,Evet,Hayır,CHP
+5/22/2018 0:48:16,Erkek,18-30,Marmara,Lise,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,MHP
+5/22/2018 0:48:49,Erkek,0-18,Marmara,Lise,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 0:49:05,Erkek,0-18,Marmara,Lise,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,Evet,IYI PARTI
+5/22/2018 0:49:09,Erkek,0-18,Akdeniz,Lise,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Evet,Evet,Hayır,DIĞER
+5/22/2018 0:49:42,Erkek,0-18,Akdeniz,Lise,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Evet,Evet,Hayır,AKP
+5/22/2018 0:50:13,Erkek,0-18,Marmara,Ortaokul,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/22/2018 0:50:19,Erkek,0-18,Marmara,Lise,Evet,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,Evet,Evet,DIĞER
+5/22/2018 0:51:30,Erkek,18-30,İç Anadolu,Lisans,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Evet,Hayır,Evet,CHP
+5/22/2018 0:51:44,Erkek,18-30,İç Anadolu,Lisans,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/22/2018 0:52:23,Erkek,0-18,Akdeniz,Lise,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 0:52:43,Erkek,0-18,Akdeniz,Lise,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/22/2018 0:52:44,Erkek,18-30,İç Anadolu,Lisans,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 0:54:05,Erkek,0-18,Marmara,Lise,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Evet,Evet,Evet,DIĞER
+5/22/2018 0:54:14,Erkek,0-18,Marmara,Lise,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/22/2018 0:54:37,Erkek,0-18,İç Anadolu,Lise,Evet,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 0:54:42,Erkek,30-50,İç Anadolu,Lise,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/22/2018 0:54:46,Erkek,0-18,Marmara,Lise,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Evet,Evet,Evet,DIĞER
+5/22/2018 0:54:55,Erkek,18-30,Ege,Lise,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/22/2018 0:55:30,Erkek,18-30,Ege,Lise,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/22/2018 0:55:55,Erkek,18-30,Marmara,Lisans,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+5/22/2018 0:56:10,Erkek,0-18,Marmara,Lise,Evet,Evet,Hayır,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,AKP
+5/22/2018 0:56:21,Erkek,18-30,Marmara,Ortaokul,Evet,Hayır,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,Hayır,AKP
+5/22/2018 0:56:48,Erkek,0-18,Marmara,Lise,Hayır,Evet,Evet,Hayır,Hayır,Evet,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 0:56:49,Erkek,18-30,Marmara,Lisans,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Evet,Evet,Evet,DIĞER
+5/22/2018 0:57:02,Erkek,18-30,Karadeniz,Lise,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Evet,Evet,Hayır,DIĞER
+5/22/2018 0:57:13,Erkek,0-18,Marmara,Lise,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,AKP
+5/22/2018 0:57:26,Erkek,18-30,İç Anadolu,Lise,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Evet,Hayır,Evet,DIĞER
+5/22/2018 0:57:27,Erkek,18-30,Marmara,Lisans,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+5/22/2018 0:57:42,Erkek,0-18,Marmara,Lise,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Evet,Evet,Evet,IYI PARTI
+5/22/2018 0:57:48,Erkek,0-18,Marmara,Lise,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Evet,Evet,Evet,IYI PARTI
+5/22/2018 0:57:54,Erkek,18-30,Marmara,Lisans,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,Evet,CHP
+5/22/2018 0:59:16,Erkek,18-30,Marmara,Lise,Evet,Hayır,Hayır,Evet,Evet,Evet,Hayır,Evet,Hayır,Hayır,HDP
+5/22/2018 0:59:31,Erkek,18-30,Marmara,Lise,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 0:59:51,Erkek,18-30,Marmara,Lise,Evet,Hayır,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+5/22/2018 0:59:56,Erkek,18-30,Marmara,Ön Lisans,Hayır,Evet,Hayır,Hayır,Hayır,Evet,Evet,Hayır,Evet,Evet,DIĞER
+5/22/2018 1:00:26,Erkek,0-18,Doğu Anadolu,Lise,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 1:00:28,Erkek,18-30,Ege,Lisans,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 1:00:35,Erkek,18-30,Marmara,Lise,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Evet,Hayır,Evet,IYI PARTI
+5/22/2018 1:00:40,Erkek,0-18,İç Anadolu,Lise,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Hayır,MHP
+5/22/2018 1:00:47,Erkek,0-18,Karadeniz,Lise,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,Evet,IYI PARTI
+5/22/2018 1:00:56,Erkek,0-18,Marmara,Lise,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Evet,Evet,Evet,DIĞER
+5/22/2018 1:01:00,Erkek,0-18,Karadeniz,Lise,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Evet,Evet,Evet,CHP
+5/22/2018 1:01:06,Erkek,0-18,İç Anadolu,Lise,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/22/2018 1:01:18,Erkek,0-18,Karadeniz,Lise,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/22/2018 1:01:49,Erkek,0-18,Marmara,Lise,Hayır,Hayır,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 1:01:54,Erkek,18-30,Marmara,Lisans,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,HDP
+5/22/2018 1:02:30,Erkek,18-30,Marmara,Lisans,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+5/22/2018 1:03:10,Erkek,18-30,Ege,Lise,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,Evet,CHP
+5/22/2018 1:04:05,Erkek,18-30,Güneydoğu,Lise,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+5/22/2018 1:04:29,Erkek,0-18,Marmara,Lise,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/22/2018 1:04:38,Erkek,18-30,Marmara,Lisans,Evet,Evet,Evet,Evet,Hayır,Hayır,Evet,Evet,Evet,Evet,IYI PARTI
+5/22/2018 1:04:55,Erkek,0-18,İç Anadolu,Lise,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Hayır,Hayır,Hayır,Evet,MHP
+5/22/2018 1:05:06,Erkek,0-18,Marmara,Lise,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/22/2018 1:05:12,Erkek,0-18,Marmara,Lise,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Evet,Evet,Evet,CHP
+5/22/2018 1:05:12,Erkek,18-30,İç Anadolu,Lise,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Hayır,CHP
+5/22/2018 1:05:25,Erkek,18-30,Akdeniz,Lise,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Evet,Evet,Hayır,CHP
+5/22/2018 1:05:47,Erkek,0-18,Marmara,Lise,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Hayır,DIĞER
+5/22/2018 1:05:51,Erkek,18-30,Doğu Anadolu,Lisans,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+5/22/2018 1:05:55,Erkek,0-18,Marmara,Lise,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 1:06:03,Erkek,18-30,Ege,Lise,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/22/2018 1:06:13,Erkek,18-30,Akdeniz,Lise,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+5/22/2018 1:06:14,Kadın,18-30,Marmara,Lise,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Evet,Evet,Evet,IYI PARTI
+5/22/2018 1:06:28,Erkek,18-30,Akdeniz,Lise,Hayır,Evet,Evet,Hayır,Hayır,Evet,Evet,Hayır,Hayır,Evet,CHP
+5/22/2018 1:06:42,Erkek,0-18,Ege,Lise,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Hayır,Evet,Evet,AKP
+5/22/2018 1:06:58,Erkek,0-18,Marmara,Lise,Hayır,Evet,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Hayır,Evet,DIĞER
+5/22/2018 1:07:37,Erkek,0-18,Marmara,Lise,Evet,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 1:08:01,Erkek,18-30,Marmara,Lisans,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 1:08:04,Erkek,18-30,Güneydoğu,Lise,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,AKP
+5/22/2018 1:08:18,Erkek,0-18,Karadeniz,Lise,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,Hayır,DIĞER
+5/22/2018 1:09:53,Erkek,0-18,Akdeniz,Lise,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Hayır,MHP
+5/22/2018 1:10:00,Erkek,0-18,Marmara,Lise,Hayır,Evet,Hayır,Evet,Hayır,Evet,Evet,Evet,Hayır,Hayır,MHP
+5/22/2018 1:10:40,Erkek,0-18,İç Anadolu,Lise,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 1:10:52,Erkek,0-18,Ege,Lise,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Hayır,Evet,Evet,IYI PARTI
+5/22/2018 1:13:54,Erkek,0-18,Ege,Lisans Üstü,Hayır,Evet,Hayır,Hayır,Hayır,Evet,Evet,Hayır,Hayır,Evet,IYI PARTI
+5/22/2018 1:14:58,Erkek,18-30,Akdeniz,Lise,Evet,Evet,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Hayır,Evet,IYI PARTI
+5/22/2018 1:15:54,Erkek,0-18,Karadeniz,Lise,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Evet,Hayır,Hayır,AKP
+5/22/2018 1:16:27,Erkek,18-30,Marmara,Lise,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Evet,Hayır,Hayır,IYI PARTI
+5/22/2018 1:18:46,Erkek,18-30,İç Anadolu,Lisans Üstü,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Evet,DIĞER
+5/22/2018 1:18:59,Erkek,0-18,Akdeniz,Lise,Evet,Evet,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,AKP
+5/22/2018 1:19:58,Erkek,18-30,Akdeniz,Ön Lisans,Hayır,Evet,Evet,Hayır,Hayır,Evet,Evet,Evet,Evet,Evet,IYI PARTI
+5/22/2018 1:20:08,Erkek,0-18,Marmara,Lise,Evet,Evet,Hayır,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,DIĞER
+5/22/2018 1:20:21,Erkek,0-18,Marmara,Lise,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Hayır,Evet,Evet,DIĞER
+5/22/2018 1:20:23,Erkek,0-18,İç Anadolu,Lise,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Hayır,CHP
+5/22/2018 1:20:44,Kadın,0-18,Karadeniz,Lise,Hayır,Evet,Hayır,Hayır,Hayır,Evet,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 1:20:55,Erkek,0-18,Karadeniz,Lise,Evet,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/22/2018 1:21:08,Erkek,0-18,Karadeniz,Lise,Hayır,Evet,Evet,Hayır,Hayır,Evet,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 1:24:16,Erkek,18-30,Marmara,Lise,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/22/2018 1:24:48,Erkek,0-18,Ege,Lise,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Hayır,IYI PARTI
+5/22/2018 1:26:49,Erkek,18-30,Marmara,Lise,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Evet,Evet,Evet,IYI PARTI
+5/22/2018 1:30:30,Erkek,18-30,Ege,Lise,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Evet,Evet,Evet,IYI PARTI
+5/22/2018 1:33:31,Erkek,18-30,İç Anadolu,Lise,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Evet,Evet,Evet,IYI PARTI
+5/22/2018 1:34:33,Erkek,18-30,Ege,Ön Lisans,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,Evet,IYI PARTI
+5/22/2018 1:35:14,Erkek,18-30,Akdeniz,Lise,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+5/22/2018 1:35:23,Erkek,0-18,Ege,Lisans,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 1:40:49,Erkek,18-30,Akdeniz,Lise,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 2:08:11,Erkek,50-60,İç Anadolu,Ön Lisans,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Evet,Evet,Evet,IYI PARTI
+5/22/2018 2:10:00,Erkek,0-18,Marmara,Lise,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/22/2018 2:13:28,Kadın,18-30,Marmara,Ön Lisans,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/22/2018 2:20:46,Erkek,0-18,Marmara,Lise,Evet,Evet,Hayır,Evet,Hayır,Evet,Evet,Hayır,Hayır,Evet,DIĞER
+5/22/2018 2:27:47,Erkek,0-18,Karadeniz,Lise,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Hayır,Evet,Evet,IYI PARTI
+5/22/2018 2:32:07,Erkek,0-18,İç Anadolu,Ortaokul,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 6:52:38,Erkek,18-30,Güneydoğu,Ön Lisans,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+5/22/2018 7:16:34,Erkek,18-30,Marmara,Lise,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Evet,Evet,Hayır,CHP
+5/22/2018 8:42:07,Erkek,0-18,Marmara,Lise,Evet,Evet,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,CHP
+5/22/2018 8:59:29,Erkek,30-50,Marmara,Ön Lisans,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/22/2018 9:43:30,Erkek,18-30,Marmara,Lise,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+5/22/2018 10:48:44,Erkek,0-18,Ege,Lise,Hayır,Evet,Evet,Evet,Hayır,Evet,Hayır,Evet,Evet,Hayır,AKP
+5/22/2018 12:01:52,Erkek,18-30,İç Anadolu,Lise,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 12:02:09,Erkek,0-18,Akdeniz,Lise,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Evet,Hayır,Hayır,MHP
+5/22/2018 12:02:58,Erkek,0-18,Marmara,Lise,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+5/22/2018 12:03:10,Erkek,0-18,Marmara,Lise,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Evet,Evet,Hayır,CHP
+5/22/2018 12:03:28,Erkek,18-30,İç Anadolu,Ön Lisans,Hayır,Evet,Hayır,Evet,Hayır,Evet,Evet,Hayır,Hayır,Evet,IYI PARTI
+5/22/2018 12:03:52,Erkek,0-18,Güneydoğu,Lise,Evet,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Evet,DIĞER
+5/22/2018 12:04:09,Erkek,0-18,Marmara,Lise,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 12:04:22,Erkek,18-30,Marmara,Lise,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/22/2018 12:04:26,Erkek,0-18,Marmara,Lise,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Evet,Hayır,Hayır,CHP
+5/22/2018 12:04:32,Erkek,18-30,Akdeniz,Lise,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Hayır,CHP
+5/22/2018 12:04:43,Erkek,0-18,Marmara,Lise,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 12:04:58,Erkek,18-30,Marmara,Lise,Evet,Evet,Evet,Evet,Hayır,Evet,Evet,Hayır,Hayır,Evet,DIĞER
+5/22/2018 12:05:12,Kadın,60+,Doğu Anadolu,İlkokul,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,Evet,Evet,Evet,Evet,HDP
+5/22/2018 12:05:26,Erkek,0-18,Marmara,Lise,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Evet,Hayır,Hayır,IYI PARTI
+5/22/2018 12:05:30,Erkek,0-18,İç Anadolu,Lise,Evet,Hayır,Evet,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Evet,DIĞER
+5/22/2018 12:05:33,Kadın,0-18,Ege,Lise,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 12:05:38,Erkek,0-18,İç Anadolu,Lise,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 12:05:50,Erkek,18-30,Ege,Ön Lisans,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+5/22/2018 12:05:50,Erkek,18-30,İç Anadolu,Lisans,Hayır,Evet,Hayır,Evet,Hayır,Evet,Evet,Evet,Hayır,Evet,DIĞER
+5/22/2018 12:06:06,Erkek,0-18,Ege,Lise,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Evet,Evet,Evet,DIĞER
+5/22/2018 12:06:43,Erkek,0-18,İç Anadolu,Lise,Evet,Evet,Hayır,Evet,Hayır,Evet,Evet,Evet,Hayır,Evet,DIĞER
+5/22/2018 12:06:48,Erkek,18-30,Marmara,Lisans,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 12:07:02,Erkek,0-18,Marmara,Lise,Evet,Evet,Evet,Evet,Hayır,Evet,Evet,Evet,Hayır,Evet,AKP
+5/22/2018 12:07:11,Erkek,18-30,Karadeniz,Lisans,Hayır,Evet,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Hayır,Evet,AKP
+5/22/2018 12:07:12,Erkek,0-18,İç Anadolu,Lise,Evet,Evet,Evet,Evet,Hayır,Evet,Hayır,Evet,Hayır,Hayır,AKP
+5/22/2018 12:07:48,Erkek,0-18,Güneydoğu,Lise,Evet,Evet,Hayır,Evet,Evet,Hayır,Evet,Evet,Hayır,Hayır,AKP
+5/22/2018 12:07:53,Erkek,18-30,İç Anadolu,Lise,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+5/22/2018 12:07:56,Erkek,0-18,Ege,Lise,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+5/22/2018 12:07:58,Erkek,0-18,Marmara,Lise,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 12:08:00,Erkek,0-18,Marmara,Lise,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/22/2018 12:08:26,Erkek,18-30,Marmara,Lise,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 12:08:30,Erkek,0-18,Akdeniz,Lise,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/22/2018 12:08:36,Erkek,0-18,Marmara,Lise,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Evet,Evet,Evet,IYI PARTI
+5/22/2018 12:08:57,Erkek,0-18,Marmara,Lise,Hayır,Evet,Evet,Hayır,Hayır,Evet,Evet,Evet,Hayır,Hayır,CHP
+5/22/2018 12:09:02,Erkek,0-18,Marmara,Lisans,Evet,Evet,Evet,Evet,Hayır,Hayır,Evet,Evet,Evet,Evet,IYI PARTI
+5/22/2018 12:09:03,Erkek,18-30,Marmara,Lisans,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+5/22/2018 12:09:15,Erkek,18-30,Akdeniz,Lise,Evet,Evet,Evet,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,AKP
+5/22/2018 12:09:23,Erkek,18-30,Ege,Lisans Üstü,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Evet,Evet,Hayır,DIĞER
+5/22/2018 12:09:45,Erkek,18-30,İç Anadolu,Lise,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Evet,IYI PARTI
+5/22/2018 12:09:47,Kadın,18-30,İç Anadolu,Lise,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/22/2018 12:10:24,Erkek,0-18,Akdeniz,Lise,Evet,Evet,Evet,Hayır,Hayır,Evet,Evet,Hayır,Evet,Evet,IYI PARTI
+5/22/2018 12:10:25,Erkek,18-30,Ege,Lise,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Hayır,Evet,Evet,AKP
+5/22/2018 12:10:40,Erkek,18-30,Marmara,Lise,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Hayır,DIĞER
+5/22/2018 12:10:50,Erkek,0-18,Marmara,Lise,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 12:10:50,Erkek,18-30,Akdeniz,Ön Lisans,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Evet,Hayır,Evet,IYI PARTI
+5/22/2018 12:10:59,Erkek,0-18,Akdeniz,Lise,Evet,Evet,Evet,Evet,Hayır,Evet,Evet,Evet,Evet,Evet,IYI PARTI
+5/22/2018 12:10:59,Erkek,0-18,Ege,Lise,Evet,Evet,Evet,Evet,Hayır,Evet,Evet,Hayır,Evet,Evet,IYI PARTI
+5/22/2018 12:11:12,Erkek,0-18,Marmara,Lise,Hayır,Evet,Hayır,Hayır,Hayır,Evet,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 12:11:13,Erkek,0-18,Marmara,Lise,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,CHP
+5/22/2018 12:11:13,Erkek,0-18,Ege,Lise,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 12:11:25,Erkek,18-30,Ege,Lise,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Hayır,CHP
+5/22/2018 12:11:58,Erkek,0-18,Marmara,Lise,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Evet,Hayır,Evet,DIĞER
+5/22/2018 12:12:02,Erkek,0-18,İç Anadolu,Lise,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Evet,DIĞER
+5/22/2018 12:12:05,Erkek,0-18,Marmara,Lise,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/22/2018 12:12:14,Erkek,18-30,Marmara,Lise,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Hayır,CHP
+5/22/2018 12:12:23,Erkek,0-18,Ege,Lise,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Evet,CHP
+5/22/2018 12:12:27,Erkek,0-18,Marmara,Lise,Hayır,Evet,Hayır,Hayır,Hayır,Evet,Evet,Evet,Evet,Evet,IYI PARTI
+5/22/2018 12:12:28,Erkek,18-30,Marmara,Ön Lisans,Hayır,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,DIĞER
+5/22/2018 12:12:54,Erkek,18-30,Ege,Lise,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/22/2018 12:12:56,Erkek,0-18,Marmara,Lise,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Evet,Hayır,Evet,DIĞER
+5/22/2018 12:12:59,Erkek,18-30,İç Anadolu,Lisans,Evet,Evet,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Hayır,Evet,AKP
+5/22/2018 12:13:33,Erkek,18-30,Ege,Lise,Evet,Hayır,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 12:13:41,Erkek,0-18,İç Anadolu,Lise,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 12:13:58,Erkek,0-18,Marmara,Lise,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Evet,Hayır,Evet,IYI PARTI
+5/22/2018 12:14:06,Erkek,18-30,İç Anadolu,Lisans,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Evet,Evet,Evet,DIĞER
+5/22/2018 12:14:13,Erkek,0-18,Marmara,Lise,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Hayır,Evet,AKP
+5/22/2018 12:14:16,Erkek,18-30,Marmara,Lisans,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Evet,DIĞER
+5/22/2018 12:14:24,Erkek,18-30,Marmara,Lisans,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 12:15:14,Erkek,18-30,Akdeniz,Lisans,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Evet,Evet,Hayır,IYI PARTI
+5/22/2018 12:15:14,Erkek,18-30,Marmara,Lisans,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 12:15:53,Erkek,18-30,Ege,Lisans,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 12:16:04,Erkek,0-18,İç Anadolu,Lise,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,Hayır,CHP
+5/22/2018 12:16:11,Erkek,18-30,Ege,Lisans,Evet,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,IYI PARTI
+5/22/2018 12:16:25,Erkek,0-18,Marmara,Lisans Üstü,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,Hayır,MHP
+5/22/2018 12:17:10,Erkek,0-18,Marmara,Ortaokul,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Hayır,Evet,Evet,CHP
+5/22/2018 12:17:25,Erkek,0-18,Akdeniz,Lise,Evet,Evet,Evet,Evet,Hayır,Evet,Evet,Evet,Evet,Hayır,AKP
+5/22/2018 12:17:33,Erkek,0-18,Marmara,Lise,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Evet,Evet,Hayır,IYI PARTI
+5/22/2018 12:17:44,Erkek,18-30,Ege,Lise,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/22/2018 12:17:51,Erkek,18-30,Marmara,Lisans,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Hayır,Hayır,Hayır,CHP
+5/22/2018 12:19:26,Erkek,0-18,Marmara,Ön Lisans,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/22/2018 12:19:27,Erkek,18-30,Marmara,Lisans,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Evet,Evet,Hayır,CHP
+5/22/2018 12:20:19,Erkek,18-30,Marmara,Lisans,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 12:20:42,Erkek,18-30,Marmara,Lise,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Evet,Hayır,Evet,DIĞER
+5/22/2018 12:20:46,Erkek,0-18,Marmara,Lise,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Evet,IYI PARTI
+5/22/2018 12:20:48,Erkek,18-30,Marmara,Lisans,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/22/2018 12:20:56,Kadın,0-18,Karadeniz,Lise,Hayır,Evet,Hayır,Evet,Hayır,Evet,Evet,Evet,Evet,Evet,DIĞER
+5/22/2018 12:21:16,Erkek,18-30,Marmara,Ön Lisans,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,Evet,Evet,Evet,Hayır,MHP
+5/22/2018 12:21:40,Erkek,18-30,Marmara,Lise,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 12:21:54,Erkek,0-18,Karadeniz,Lise,Hayır,Hayır,Hayır,Evet,Evet,Evet,Evet,Hayır,Hayır,Evet,IYI PARTI
+5/22/2018 12:21:54,Erkek,0-18,Akdeniz,Lise,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Evet,Evet,Evet,AKP
+5/22/2018 12:22:46,Erkek,0-18,Akdeniz,Lise,Evet,Hayır,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,HDP
+5/22/2018 12:22:47,Erkek,0-18,Marmara,Lise,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Evet,Hayır,Hayır,Evet,DIĞER
+5/22/2018 12:23:55,Erkek,0-18,İç Anadolu,Lise,Evet,Evet,Evet,Evet,Hayır,Evet,Evet,Hayır,Evet,Hayır,CHP
+5/22/2018 12:24:18,Erkek,18-30,Marmara,Lise,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+5/22/2018 12:24:56,Erkek,18-30,Marmara,Ön Lisans,Evet,Evet,Evet,Evet,Hayır,Evet,Evet,Hayır,Evet,Evet,IYI PARTI
+5/22/2018 12:26:15,Erkek,18-30,Marmara,Lise,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Evet,AKP
+5/22/2018 12:26:22,Erkek,0-18,Ege,Lise,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 12:26:49,Erkek,18-30,Marmara,Lise,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,AKP
+5/22/2018 12:27:05,Erkek,0-18,Karadeniz,Lise,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Evet,Hayır,Evet,IYI PARTI
+5/22/2018 12:27:14,Erkek,0-18,Marmara,Lise,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+5/22/2018 12:27:27,Erkek,18-30,Ege,Lisans,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 12:27:30,Erkek,18-30,Ege,Lise,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/22/2018 12:27:53,Erkek,0-18,İç Anadolu,Lise,Hayır,Evet,Hayır,Evet,Evet,Hayır,Hayır,Evet,Hayır,Hayır,MHP
+5/22/2018 12:28:02,Erkek,30-50,Ege,Ön Lisans,Hayır,Evet,Evet,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,DIĞER
+5/22/2018 12:28:03,Erkek,18-30,Marmara,Lise,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Hayır,CHP
+5/22/2018 12:28:11,Erkek,0-18,Akdeniz,Ön Lisans,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Hayır,DIĞER
+5/22/2018 12:28:51,Erkek,18-30,Marmara,Lisans,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Evet,DIĞER
+5/22/2018 12:29:21,Erkek,0-18,Güneydoğu,Lise,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Hayır,CHP
+5/22/2018 12:29:35,Erkek,0-18,Ege,Ortaokul,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 12:29:36,Erkek,18-30,Ege,Lise,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 12:31:16,Erkek,0-18,Karadeniz,Lise,Hayır,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Evet,Evet,MHP
+5/22/2018 12:31:53,Erkek,0-18,Marmara,Lise,Evet,Hayır,Hayır,Hayır,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,DIĞER
+5/22/2018 12:32:27,Erkek,0-18,İç Anadolu,Lise,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Evet,Evet,Hayır,Evet,MHP
+5/22/2018 12:32:49,Kadın,0-18,İç Anadolu,Lise,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Hayır,CHP
+5/22/2018 12:33:01,Erkek,0-18,Marmara,Lise,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 12:34:14,Erkek,0-18,Karadeniz,Lise,Hayır,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Evet,Evet,IYI PARTI
+5/22/2018 12:34:24,Erkek,0-18,Marmara,Lise,Hayır,Evet,Evet,Hayır,Hayır,Evet,Evet,Hayır,Evet,Hayır,HDP
+5/22/2018 12:35:05,Erkek,0-18,Ege,Lise,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 12:37:52,Erkek,0-18,Marmara,Lise,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 12:39:26,Erkek,0-18,Marmara,Lise,Hayır,Evet,Hayır,Hayır,Hayır,Evet,Evet,Hayır,Evet,Hayır,DIĞER
+5/22/2018 12:40:44,Erkek,0-18,Marmara,Lise,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Evet,Hayır,Hayır,CHP
+5/22/2018 12:46:31,Erkek,0-18,Marmara,Lise,Evet,Evet,Hayır,Evet,Hayır,Evet,Evet,Evet,Hayır,Evet,AKP
+5/22/2018 12:47:09,Erkek,18-30,Marmara,Lise,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+5/22/2018 12:48:32,Erkek,0-18,Ege,Lise,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Hayır,CHP
+5/22/2018 13:02:47,Erkek,0-18,Ege,Lise,Hayır,Evet,Evet,Hayır,Hayır,Evet,Evet,Hayır,Hayır,Evet,DIĞER
+5/22/2018 13:06:26,Erkek,0-18,Ege,Lise,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Evet,Evet,Evet,CHP
+5/22/2018 13:07:06,Erkek,0-18,Marmara,Lise,Hayır,Evet,Evet,Evet,Hayır,Evet,Hayır,Evet,Hayır,Hayır,DIĞER
+5/22/2018 13:07:14,Erkek,0-18,Marmara,Lise,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Evet,Evet,Evet,DIĞER
+5/22/2018 13:08:37,Erkek,0-18,Marmara,Lise,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Evet,Evet,Evet,IYI PARTI
+5/22/2018 13:10:34,Erkek,18-30,Marmara,Lise,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Evet,Evet,Evet,IYI PARTI
+5/22/2018 13:11:22,Erkek,50-60,Marmara,İlkokul,Evet,Hayır,Hayır,Evet,Evet,Evet,Hayır,Hayır,Hayır,Hayır,AKP
+5/22/2018 13:11:56,Erkek,18-30,Marmara,Lisans,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Evet,Hayır,Evet,IYI PARTI
+5/22/2018 13:12:09,Erkek,0-18,Marmara,Lise,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,Evet,CHP
+5/22/2018 13:12:16,Erkek,18-30,Marmara,Lise,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Evet,Evet,Evet,CHP
+5/22/2018 13:12:50,Erkek,18-30,İç Anadolu,Lise,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Evet,Evet,Evet,IYI PARTI
+5/22/2018 13:13:18,Erkek,0-18,Marmara,Ortaokul,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/22/2018 13:13:28,Erkek,18-30,Marmara,Lisans,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+5/22/2018 13:13:46,Erkek,0-18,Marmara,Lise,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,Evet,DIĞER
+5/22/2018 13:13:57,Erkek,0-18,İç Anadolu,Lise,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,AKP
+5/22/2018 13:14:13,Erkek,18-30,Marmara,Ön Lisans,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Hayır,DIĞER
+5/22/2018 13:14:43,Erkek,0-18,İç Anadolu,Lise,Evet,Evet,Evet,Evet,Hayır,Hayır,Evet,Evet,Hayır,Evet,DIĞER
+5/22/2018 13:15:06,Erkek,18-30,Marmara,Lisans,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Hayır,IYI PARTI
+5/22/2018 13:15:11,Erkek,0-18,Ege,Lise,Hayır,Evet,Hayır,Evet,Hayır,Evet,Evet,Hayır,Hayır,Hayır,AKP
+5/22/2018 13:15:12,Erkek,0-18,Ege,Lise,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,HDP
+5/22/2018 13:16:48,Erkek,18-30,Karadeniz,Ön Lisans,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,Evet,DIĞER
+5/22/2018 13:17:09,Erkek,0-18,Ege,Lise,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Hayır,DIĞER
+5/22/2018 13:17:40,Erkek,18-30,Karadeniz,Ön Lisans,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Evet,DIĞER
+5/22/2018 13:17:54,Erkek,18-30,Marmara,Ön Lisans,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Evet,Hayır,Hayır,IYI PARTI
+5/22/2018 13:18:21,Erkek,0-18,Marmara,Lise,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Evet,IYI PARTI
+5/22/2018 13:18:57,Erkek,18-30,Marmara,Lisans,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 13:19:02,Erkek,0-18,Karadeniz,Lise,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 13:19:11,Erkek,0-18,Marmara,Lisans,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Hayır,MHP
+5/22/2018 13:19:40,Erkek,0-18,Karadeniz,Lise,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+5/22/2018 13:19:41,Erkek,0-18,Marmara,Lise,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 13:20:00,Erkek,0-18,Akdeniz,Lise,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Hayır,IYI PARTI
+5/22/2018 13:20:19,Erkek,0-18,Ege,Lise,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 13:21:06,Erkek,0-18,Marmara,Lise,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+5/22/2018 13:21:08,Erkek,18-30,İç Anadolu,Lisans,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 13:21:09,Erkek,0-18,İç Anadolu,Lise,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Evet,Hayır,Evet,IYI PARTI
+5/22/2018 13:21:29,Erkek,0-18,Karadeniz,Lise,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Evet,Hayır,Hayır,AKP
+5/22/2018 13:22:59,Erkek,0-18,Ege,Lise,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Evet,IYI PARTI
+5/22/2018 13:23:06,Erkek,0-18,Marmara,Lise,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Evet,Evet,Evet,CHP
+5/22/2018 13:23:41,Erkek,18-30,Ege,Lisans,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 13:24:09,Erkek,0-18,İç Anadolu,Lise,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,Evet,DIĞER
+5/22/2018 13:24:16,Erkek,0-18,İç Anadolu,Lise,Hayır,Evet,Evet,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,IYI PARTI
+5/22/2018 13:24:27,Erkek,0-18,Marmara,Lise,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 13:25:39,Erkek,18-30,Marmara,Lise,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Hayır,Evet,Evet,Evet,IYI PARTI
+5/22/2018 13:26:16,Kadın,0-18,Marmara,Lise,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Hayır,CHP
+5/22/2018 13:26:31,Erkek,0-18,İç Anadolu,Lise,Evet,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 13:26:46,Erkek,0-18,Marmara,Lise,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Hayır,IYI PARTI
+5/22/2018 13:28:44,Erkek,18-30,Akdeniz,Lisans,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 13:28:47,Erkek,18-30,Marmara,Lise,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Evet,Evet,Evet,CHP
+5/22/2018 13:29:07,Erkek,0-18,Marmara,Lise,Hayır,Evet,Evet,Evet,Evet,Hayır,Evet,Evet,Hayır,Evet,IYI PARTI
+5/22/2018 13:29:17,Erkek,18-30,Marmara,Lisans,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+5/22/2018 13:29:46,Erkek,0-18,Marmara,Lise,Evet,Evet,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,IYI PARTI
+5/22/2018 13:30:23,Kadın,0-18,Marmara,Lise,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,Evet,DIĞER
+5/22/2018 13:30:36,Erkek,18-30,Ege,Lisans,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/22/2018 13:30:51,Kadın,18-30,İç Anadolu,Lisans,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Evet,MHP
+5/22/2018 13:30:57,Erkek,18-30,İç Anadolu,Lise,Hayır,Evet,Evet,Evet,Hayır,Evet,Hayır,Evet,Hayır,Hayır,DIĞER
+5/22/2018 13:33:10,Erkek,18-30,Akdeniz,Lise,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 13:33:11,Erkek,18-30,İç Anadolu,Lise,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 13:33:51,Erkek,18-30,Marmara,Lise,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+5/22/2018 13:35:27,Erkek,0-18,Marmara,Lise,Evet,Hayır,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,Hayır,IYI PARTI
+5/22/2018 13:35:30,Erkek,18-30,Marmara,Lise,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Hayır,CHP
+5/22/2018 13:36:07,Erkek,0-18,Marmara,Lise,Evet,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 13:36:55,Erkek,18-30,Akdeniz,Lisans,Evet,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Evet,IYI PARTI
+5/22/2018 13:38:56,Erkek,18-30,Akdeniz,Lise,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Evet,Hayır,Evet,DIĞER
+5/22/2018 13:40:32,Erkek,18-30,Akdeniz,Ön Lisans,Hayır,Evet,Hayır,Hayır,Hayır,Evet,Evet,Hayır,Hayır,Hayır,CHP
+5/22/2018 13:40:53,Erkek,0-18,Ege,Lise,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/22/2018 13:41:40,Erkek,0-18,Marmara,Lise,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Evet,Evet,Hayır,DIĞER
+5/22/2018 13:43:27,Erkek,0-18,Marmara,Lise,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Hayır,Hayır,Hayır,CHP
+5/22/2018 13:45:03,Erkek,18-30,Marmara,Ön Lisans,Evet,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,Hayır,AKP
+5/22/2018 13:45:43,Erkek,0-18,Marmara,Lise,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 13:46:14,Erkek,0-18,Akdeniz,Lise,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Evet,Evet,Evet,CHP
+5/22/2018 13:52:08,Erkek,18-30,Marmara,Ön Lisans,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 13:54:03,Erkek,18-30,İç Anadolu,Lisans,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Evet,CHP
+5/22/2018 13:56:19,Erkek,18-30,Marmara,Lisans,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/22/2018 13:57:22,Erkek,18-30,Marmara,Lisans,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/22/2018 13:58:11,Erkek,18-30,Karadeniz,Ön Lisans,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Evet,DIĞER
+5/22/2018 13:59:34,Erkek,18-30,Marmara,Lisans,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,Evet,IYI PARTI
+5/22/2018 13:59:53,Erkek,18-30,Marmara,Lisans,Hayır,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Hayır,Hayır,AKP
+5/22/2018 14:00:05,Erkek,0-18,Ege,Lisans,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 14:00:35,Erkek,0-18,Marmara,Lise,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 14:01:10,Erkek,18-30,Ege,Lisans,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/22/2018 14:01:12,Erkek,18-30,Karadeniz,Lise,Hayır,Evet,Evet,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,AKP
+5/22/2018 14:01:48,Erkek,0-18,Akdeniz,Lise,Evet,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 14:03:56,Erkek,18-30,Marmara,Lise,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 14:06:21,Erkek,0-18,Marmara,Lise,Evet,Evet,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Evet,HDP
+5/22/2018 14:06:56,Erkek,0-18,Ege,Lise,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 14:12:09,Erkek,0-18,Karadeniz,Lise,Hayır,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,Hayır,Evet,CHP
+5/22/2018 14:14:45,Erkek,0-18,Ege,Lise,Evet,Evet,Hayır,Hayır,Hayır,Evet,Evet,Evet,Evet,Evet,IYI PARTI
+5/22/2018 14:16:40,Erkek,0-18,Akdeniz,Lise,Evet,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 14:21:26,Erkek,0-18,Akdeniz,Lise,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 14:23:04,Erkek,0-18,Marmara,Lise,Evet,Evet,Evet,Evet,Hayır,Hayır,Evet,Evet,Hayır,Hayır,DIĞER
+5/22/2018 14:26:14,Erkek,0-18,Akdeniz,Lise,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Hayır,Hayır,Evet,Evet,DIĞER
+5/22/2018 14:26:41,Erkek,18-30,Marmara,Lisans,Evet,Evet,Hayır,Hayır,Hayır,Evet,Evet,Hayır,Hayır,Hayır,DIĞER
+5/22/2018 14:27:07,Erkek,18-30,İç Anadolu,Lise,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,Evet,CHP
+5/22/2018 14:28:50,Erkek,18-30,Marmara,Lisans,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Evet,Evet,Evet,CHP
+5/22/2018 14:33:52,Erkek,18-30,Marmara,Lise,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Hayır,DIĞER
+5/22/2018 14:35:18,Erkek,0-18,Karadeniz,Lise,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Evet,Evet,Evet,IYI PARTI
+5/22/2018 14:39:06,Erkek,0-18,İç Anadolu,Lise,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 14:39:21,Erkek,18-30,Akdeniz,Lisans,Evet,Evet,Hayır,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,AKP
+5/22/2018 14:40:37,Erkek,0-18,Marmara,Lise,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 14:43:11,Erkek,0-18,Marmara,Lise,Hayır,Evet,Hayır,Hayır,Hayır,Evet,Evet,Evet,Evet,Evet,DIĞER
+5/22/2018 14:46:14,Erkek,0-18,Akdeniz,Lise,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+5/22/2018 14:46:34,Erkek,18-30,Marmara,Lise,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Hayır,Evet,Evet,IYI PARTI
+5/22/2018 14:52:23,Erkek,18-30,İç Anadolu,Lisans,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 14:53:30,Erkek,0-18,Doğu Anadolu,Lise,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+5/22/2018 14:54:28,Erkek,50-60,İç Anadolu,Lise,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Hayır,Evet,AKP
+5/22/2018 14:55:13,Kadın,18-30,Ege,Ön Lisans,Hayır,Evet,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Hayır,Evet,AKP
+5/22/2018 14:55:47,Erkek,18-30,Akdeniz,Lisans,Evet,Evet,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Hayır,Evet,AKP
+5/22/2018 14:56:27,Erkek,18-30,Karadeniz,Lisans,Evet,Evet,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Hayır,Evet,AKP
+5/22/2018 14:58:00,Erkek,18-30,İç Anadolu,Ön Lisans,Hayır,Evet,Hayır,Hayır,Hayır,Evet,Evet,Hayır,Hayır,Evet,DIĞER
+5/22/2018 15:00:09,Erkek,0-18,Akdeniz,Lise,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+5/22/2018 15:00:23,Erkek,0-18,Marmara,Lise,Hayır,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Evet,Evet,IYI PARTI
+5/22/2018 15:03:17,Erkek,0-18,Ege,Lise,Evet,Evet,Hayır,Hayır,Hayır,Evet,Evet,Evet,Evet,Evet,DIĞER
+5/22/2018 15:04:53,Erkek,0-18,Güneydoğu,Lise,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Evet,Evet,Evet,DIĞER
+5/22/2018 15:06:31,Erkek,18-30,Ege,Lisans,Hayır,Evet,Evet,Hayır,Hayır,Evet,Evet,Evet,Hayır,Evet,AKP
+5/22/2018 15:07:39,Erkek,0-18,Karadeniz,Lisans,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Evet,Hayır,Evet,AKP
+5/22/2018 15:13:31,Erkek,18-30,Akdeniz,Ön Lisans,Evet,Evet,Evet,Evet,Hayır,Evet,Evet,Evet,Hayır,Hayır,AKP
+5/22/2018 15:20:33,Erkek,18-30,Ege,Lisans,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Evet,CHP
+5/22/2018 15:22:09,Erkek,18-30,Marmara,Lisans,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 15:24:42,Erkek,0-18,Marmara,Lise,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/22/2018 15:25:51,Erkek,0-18,Marmara,Lise,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 15:28:46,Erkek,0-18,Marmara,Lise,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Evet,IYI PARTI
+5/22/2018 15:29:17,Erkek,18-30,Ege,Lise,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 15:30:26,Erkek,0-18,Marmara,Lise,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/22/2018 15:33:54,Erkek,18-30,İç Anadolu,Lisans,Hayır,Evet,Hayır,Evet,Hayır,Evet,Evet,Hayır,Evet,Evet,IYI PARTI
+5/22/2018 15:35:42,Erkek,18-30,Marmara,Ön Lisans,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 15:37:03,Erkek,0-18,Marmara,Lise,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 15:37:19,Erkek,0-18,İç Anadolu,Lise,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,Evet,CHP
+5/22/2018 15:37:28,Erkek,18-30,İç Anadolu,Lisans,Evet,Evet,Evet,Evet,Hayır,Hayır,Evet,Evet,Hayır,Evet,DIĞER
+5/22/2018 15:41:52,Erkek,0-18,Marmara,Lise,Hayır,Evet,Hayır,Evet,Evet,Hayır,Evet,Evet,Hayır,Hayır,DIĞER
+5/22/2018 15:44:13,Erkek,0-18,İç Anadolu,Lise,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,Evet,CHP
+5/22/2018 15:49:01,Erkek,0-18,Ege,Lise,Hayır,Evet,Evet,Evet,Evet,Evet,Evet,Hayır,Hayır,Evet,DIĞER
+5/22/2018 15:49:58,Erkek,18-30,Karadeniz,Lise,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 15:53:33,Erkek,0-18,Marmara,Lise,Evet,Evet,Hayır,Evet,Evet,Hayır,Evet,Evet,Hayır,Evet,DIĞER
+5/22/2018 15:55:31,Erkek,0-18,Ege,Lise,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/22/2018 15:55:41,Erkek,0-18,Akdeniz,Lise,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Hayır,CHP
+5/22/2018 15:57:46,Erkek,0-18,İç Anadolu,Ön Lisans,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Evet,Hayır,Hayır,AKP
+5/22/2018 16:09:11,Erkek,0-18,Marmara,Ön Lisans,Evet,Hayır,Evet,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Hayır,CHP
+5/22/2018 16:10:09,Erkek,18-30,Marmara,Lisans,Evet,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,Hayır,MHP
+5/22/2018 16:16:27,Erkek,0-18,İç Anadolu,Lise,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+5/22/2018 16:17:21,Erkek,18-30,Akdeniz,Lisans,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Hayır,CHP
+5/22/2018 16:17:24,Kadın,0-18,Ege,Lise,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Hayır,IYI PARTI
+5/22/2018 16:28:07,Kadın,18-30,İç Anadolu,Lise,Evet,Hayır,Evet,Evet,Evet,Evet,Evet,Evet,Hayır,Evet,HDP
+5/22/2018 16:28:16,Erkek,0-18,Marmara,Lise,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Evet,IYI PARTI
+5/22/2018 16:31:02,Erkek,0-18,İç Anadolu,Lise,Evet,Hayır,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,Hayır,AKP
+5/22/2018 16:34:52,Erkek,0-18,Marmara,Lise,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Hayır,Evet,Evet,AKP
+5/22/2018 16:34:58,Erkek,18-30,Akdeniz,Lisans,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 16:36:02,Erkek,0-18,Ege,Lise,Evet,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Evet,Evet,CHP
+5/22/2018 16:38:10,Erkek,18-30,Marmara,Ön Lisans,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Evet,Hayır,Hayır,DIĞER
+5/22/2018 16:38:28,Erkek,0-18,Ege,Lise,Evet,Evet,Hayır,Evet,Hayır,Evet,Evet,Evet,Hayır,Evet,DIĞER
+5/22/2018 16:38:31,Erkek,0-18,Akdeniz,Lise,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Hayır,Hayır,Evet,IYI PARTI
+5/22/2018 16:39:12,Erkek,0-18,İç Anadolu,Lise,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Evet,Evet,Evet,CHP
+5/22/2018 16:39:13,Erkek,0-18,Akdeniz,Lise,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Evet,CHP
+5/22/2018 16:39:23,Erkek,0-18,İç Anadolu,Lise,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,Evet,CHP
+5/22/2018 16:40:07,Erkek,0-18,Marmara,Lise,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Hayır,IYI PARTI
+5/22/2018 16:40:10,Erkek,0-18,Marmara,Lise,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Evet,Evet,Evet,CHP
+5/22/2018 16:41:23,Erkek,0-18,İç Anadolu,Lise,Hayır,Evet,Evet,Hayır,Hayır,Evet,Evet,Hayır,Hayır,Evet,CHP
+5/22/2018 16:42:02,Erkek,0-18,Marmara,Lise,Hayır,Evet,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 16:42:10,Erkek,18-30,Akdeniz,Lise,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Evet,Evet,Hayır,CHP
+5/22/2018 16:42:58,Erkek,0-18,Karadeniz,Lise,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 16:43:36,Erkek,0-18,Marmara,Lise,Evet,Evet,Hayır,Evet,Hayır,Evet,Evet,Hayır,Evet,Evet,IYI PARTI
+5/22/2018 16:44:29,Erkek,0-18,İç Anadolu,Lise,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Evet,Evet,Evet,DIĞER
+5/22/2018 16:45:35,Erkek,0-18,Ege,Lise,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,Hayır,DIĞER
+5/22/2018 16:45:46,Erkek,0-18,Ege,Lise,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 16:47:42,Erkek,18-30,Marmara,Lise,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/22/2018 16:48:23,Erkek,0-18,Karadeniz,Lise,Evet,Evet,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Hayır,Hayır,DIĞER
+5/22/2018 16:49:22,Erkek,0-18,Karadeniz,Lise,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Evet,Evet,Hayır,IYI PARTI
+5/22/2018 16:52:45,Erkek,0-18,İç Anadolu,Lise,Evet,Evet,Evet,Evet,Hayır,Hayır,Evet,Evet,Evet,Evet,MHP
+5/22/2018 16:54:23,Erkek,0-18,İç Anadolu,Lise,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Evet,Evet,Evet,DIĞER
+5/22/2018 16:54:29,Erkek,18-30,Marmara,Lisans Üstü,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,Evet,MHP
+5/22/2018 16:55:40,Erkek,18-30,Ege,Lisans,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Evet,Evet,Evet,IYI PARTI
+5/22/2018 16:56:06,Erkek,0-18,Karadeniz,Lise,Evet,Evet,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Evet,CHP
+5/22/2018 16:57:25,Erkek,30-50,Marmara,Lise,Hayır,Hayır,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/22/2018 16:57:28,Erkek,0-18,Marmara,Lise,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+5/22/2018 17:00:52,Erkek,0-18,Marmara,Lise,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+5/22/2018 17:01:17,Kadın,0-18,Marmara,Lise,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,AKP
+5/22/2018 17:01:20,Erkek,0-18,Marmara,Lise,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Evet,Evet,Evet,CHP
+5/22/2018 17:01:38,Erkek,0-18,Marmara,Lise,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Evet,Hayır,Evet,AKP
+5/22/2018 17:04:04,Erkek,18-30,Ege,Lisans,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 17:04:20,Erkek,0-18,Marmara,Lise,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+5/22/2018 17:05:30,Erkek,0-18,Ege,Lise,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 17:06:15,Erkek,0-18,Marmara,Lise,Evet,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,DIĞER
+5/22/2018 17:06:55,Erkek,0-18,Karadeniz,Lise,Evet,Evet,Evet,Hayır,Hayır,Evet,Evet,Hayır,Evet,Evet,IYI PARTI
+5/22/2018 17:07:59,Erkek,18-30,Marmara,Lise,Hayır,Evet,Hayır,Evet,Hayır,Evet,Evet,Evet,Evet,Evet,CHP
+5/22/2018 17:08:19,Erkek,0-18,Marmara,Lise,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Hayır,CHP
+5/22/2018 17:10:49,Erkek,18-30,Marmara,Lise,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/22/2018 17:13:23,Erkek,0-18,Marmara,Lise,Hayır,Evet,Evet,Hayır,Hayır,Evet,Evet,Hayır,Hayır,Evet,DIĞER
+5/22/2018 17:14:07,Erkek,0-18,Marmara,Lise,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Hayır,CHP
+5/22/2018 17:17:34,Erkek,0-18,Karadeniz,Lise,Evet,Evet,Evet,Evet,Hayır,Evet,Evet,Hayır,Evet,Evet,IYI PARTI
+5/22/2018 17:18:37,Erkek,0-18,Marmara,Lise,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 17:19:47,Erkek,0-18,Marmara,Lise,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Hayır,CHP
+5/22/2018 17:20:31,Erkek,0-18,Marmara,Lise,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/22/2018 17:23:17,Erkek,0-18,Marmara,Lise,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Hayır,CHP
+5/22/2018 17:24:03,Erkek,0-18,Marmara,Lise,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Evet,Hayır,Evet,AKP
+5/22/2018 17:29:18,Erkek,18-30,Karadeniz,Lisans,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/22/2018 17:34:18,Erkek,0-18,Marmara,Lise,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Evet,Evet,Evet,CHP
+5/22/2018 17:37:55,Erkek,0-18,Marmara,Lise,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Evet,Hayır,Evet,IYI PARTI
+5/22/2018 17:38:56,Erkek,18-30,Marmara,Lise,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,Hayır,CHP
+5/22/2018 17:40:48,Erkek,0-18,Ege,Lise,Evet,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Hayır,CHP
+5/22/2018 17:41:12,Erkek,0-18,İç Anadolu,Lise,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/22/2018 17:44:05,Erkek,0-18,Doğu Anadolu,Lise,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/22/2018 17:44:53,Erkek,18-30,Marmara,Ön Lisans,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Evet,Evet,Evet,IYI PARTI
+5/22/2018 17:51:52,Erkek,0-18,Karadeniz,Lise,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 17:53:50,Kadın,60+,Marmara,Lisans Üstü,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,Hayır,Evet,Evet,AKP
+5/22/2018 18:03:30,Erkek,0-18,Marmara,Lise,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Evet,DIĞER
+5/22/2018 18:08:30,Erkek,0-18,Ege,Lise,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Hayır,CHP
+5/22/2018 18:10:58,Erkek,18-30,Akdeniz,Lisans,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Evet,Evet,Hayır,AKP
+5/22/2018 18:21:22,Kadın,0-18,Akdeniz,Lise,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/22/2018 18:21:31,Kadın,60+,Güneydoğu,Lisans Üstü,Evet,Hayır,Evet,Evet,Hayır,Hayır,Evet,Hayır,Hayır,Evet,DIĞER
+5/22/2018 18:21:17,Erkek,0-18,Marmara,Lise,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/22/2018 18:21:20,Erkek,0-18,Marmara,Lise,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 18:23:24,Erkek,0-18,Karadeniz,Lise,Hayır,Evet,Hayır,Evet,Hayır,Evet,Evet,Hayır,Hayır,Hayır,CHP
+5/22/2018 18:45:05,Erkek,0-18,Akdeniz,Lise,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/22/2018 19:47:54,Erkek,0-18,İç Anadolu,Lise,Hayır,Evet,Evet,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,DIĞER
+5/22/2018 20:21:02,Erkek,0-18,Ege,Lise,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/22/2018 20:21:35,Erkek,18-30,Marmara,Ön Lisans,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Evet,Evet,Evet,MHP
+5/22/2018 20:22:49,Erkek,0-18,Marmara,Lise,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Evet,Evet,Evet,CHP
+5/22/2018 20:23:37,Erkek,0-18,Marmara,Lise,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+5/22/2018 20:23:43,Erkek,0-18,Karadeniz,Lise,Evet,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/22/2018 20:24:08,Erkek,0-18,Marmara,Lisans,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,AKP
+5/22/2018 20:24:11,Erkek,18-30,Marmara,Lise,Evet,Hayır,Hayır,Evet,Evet,Evet,Hayır,Evet,Hayır,Hayır,AKP
+5/22/2018 20:24:35,Kadın,18-30,Ege,Lise,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,HDP
+5/22/2018 20:24:47,Erkek,18-30,Ege,Lisans,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+5/22/2018 20:25:15,Erkek,0-18,Marmara,Lise,Evet,Evet,Hayır,Evet,Hayır,Evet,Evet,Evet,Evet,Evet,DIĞER
+5/22/2018 20:25:30,Erkek,0-18,Marmara,Lise,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,IYI PARTI
+5/22/2018 20:25:36,Erkek,0-18,Ege,Lise,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 20:26:24,Erkek,18-30,Güneydoğu,Lisans,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,HDP
+5/22/2018 20:26:47,Erkek,18-30,Marmara,Lisans,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Hayır,IYI PARTI
+5/22/2018 20:31:53,Erkek,0-18,Marmara,Lise,Hayır,Evet,Evet,Evet,Hayır,Evet,Evet,Hayır,Evet,Hayır,CHP
+5/22/2018 20:34:01,Erkek,0-18,Marmara,Lise,Hayır,Evet,Hayır,Evet,Hayır,Hayır,Evet,Evet,Evet,Evet,IYI PARTI
+5/22/2018 20:34:55,Erkek,0-18,Marmara,Lise,Hayır,Evet,Evet,Hayır,Hayır,Evet,Evet,Hayır,Hayır,Evet,IYI PARTI
+5/22/2018 20:49:41,Erkek,0-18,Akdeniz,Lise,Hayır,Evet,Evet,Evet,Evet,Evet,Evet,Evet,Evet,Hayır,DIĞER
+5/22/2018 20:58:53,Erkek,0-18,İç Anadolu,Lise,Evet,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+5/22/2018 21:04:26,Erkek,0-18,Marmara,Lise,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Hayır,Hayır,CHP
+5/22/2018 21:11:52,Erkek,0-18,Ege,Lise,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 21:12:20,Erkek,60+,Akdeniz,Lisans Üstü,Evet,Hayır,Evet,Evet,Evet,Evet,Evet,Hayır,Evet,Hayır,DIĞER
+5/22/2018 21:15:41,Erkek,18-30,Karadeniz,Lise,Hayır,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP
+5/22/2018 21:17:09,Erkek,0-18,Güneydoğu,Lise,Hayır,Evet,Hayır,Evet,Hayır,Evet,Hayır,Evet,Evet,Evet,DIĞER
+5/23/2018 9:05:59,Erkek,0-18,Marmara,Lise,Hayır,Evet,Evet,Hayır,Hayır,Evet,Evet,Evet,Evet,Evet,IYI PARTI
+5/25/2018 19:56:24,Erkek,30-50,Marmara,Lisans Üstü,Hayır,Evet,Evet,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+5/26/2018 2:36:32,Erkek,18-30,Marmara,Lise,Hayır,Evet,Evet,Evet,Hayır,Hayır,Evet,Hayır,Evet,Evet,DIĞER
+5/27/2018 2:20:17,Erkek,18-30,Akdeniz,Lise,Evet,Evet,Hayır,Hayır,Hayır,Hayır,Evet,Hayır,Evet,Evet,CHP

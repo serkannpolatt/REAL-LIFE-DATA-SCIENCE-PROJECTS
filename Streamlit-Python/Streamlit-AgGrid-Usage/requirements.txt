@@ -1,4 +1,0 @@
-streamlit
-pandas
-streamlit_aggrid
-gspread==3.7.0

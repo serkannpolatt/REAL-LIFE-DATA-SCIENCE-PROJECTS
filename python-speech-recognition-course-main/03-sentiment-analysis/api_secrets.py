@@ -1,1 +1,0 @@
-API_KEY_ASSEMBLYAI = 'key1'

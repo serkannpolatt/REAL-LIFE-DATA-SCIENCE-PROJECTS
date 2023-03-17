@@ -1,0 +1,22 @@
+name: systemic-risk-dashboard
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.6.4
+  - numpy=1.14.0
+  - pandas=0.22.0
+  - matplotlib=2.1.2
+  - seaborn=0.8.1
+  - bqplot=0.10.5
+  - networkx=2.1
+  - ipywidgets=7.1.2
+  - ipython=6.2.1
+  - jupyter_dashboards=0.7.0
+  - jupyter_nbextensions_configurator=0.4.0
+  - widgetsnbextension=3.1.0
+  - pip:
+    - mpld3==0.3
+    - tables==3.4.2
+    - visjs2jupyter==0.1.16
+    - webcolors==1.8.1

@@ -1,4 +1,4 @@
-# Real-Life Machine Learning Project
+# Real Life Machine Learning Project
 
 ## This repository contains a real-life machine learning project aimed at solving a specific problem. The project is divided into several stages, including data collection, data cleaning, feature engineering, model selection, and model evaluation.
 

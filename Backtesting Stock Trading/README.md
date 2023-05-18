@@ -59,5 +59,5 @@ Bu proje, Python kullanarak borsa fiyatlarını izlemek için bir alarm sistemi 
 ### **Bağımlılıklar**
 - **time:** Python'ın standart kütüphanesidir ve zaman işlemleri için kullanılır.
 - **yfinance:** Finansal verileri almak için kullanılan bir kütüphanedir. Kurulum için pip install yfinance komutunu kullanabilirsiniz.
-- **winotify: **Windows bildirimleri oluşturmak için kullanılan bir kütüphanedir. Kurulum için pip install winotify komutunu kullanabilirsiniz.
-- **backtesting (opsiyonel): **Hisse senedi stratejilerini test etmek için kullanılan bir kütüphanedir. İlgili kısımı projenizde kullanmak isterseniz, kurulum için pip install backtesting komutunu kullanabilirsiniz.
+- **winotify:** Windows bildirimleri oluşturmak için kullanılan bir kütüphanedir. Kurulum için pip install winotify komutunu kullanabilirsiniz.
+- **backtesting (opsiyonel):** Hisse senedi stratejilerini test etmek için kullanılan bir kütüphanedir. İlgili kısımı projenizde kullanmak isterseniz, kurulum için pip install backtesting komutunu kullanabilirsiniz.

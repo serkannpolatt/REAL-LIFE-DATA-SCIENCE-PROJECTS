@@ -41,7 +41,7 @@ Additionally, it involves combining natural language processing and machine lear
 
 
 ## Türkçe
-##Hisse Senedi Fiyatı Tahmini
+## Hisse Senedi Fiyatı Tahmini
 Bu proje, doğal dil işleme ve makine öğrenimi yöntemlerini kullanarak haber başlıklarından hisse senedi fiyatı tahmini yapmayı amaçlamaktadır. Proje, veri kümesini işlemek, metin verilerini özelliklere dönüştürmek ve bir sınıflandırıcı modeli eğitmek için Python programlama dilinde yazılmıştır.
 
 ### **Veri Kümesi**

@@ -7,7 +7,7 @@
 
 **Preprocess Text:** The code performs some preprocessing on the article text to split it into chunks of a maximum length (500 words in this case) to fit the summarization model's input requirements. It splits the text  ###  into sentences by adding "<eos>" at the end of each sentence and then divides the sentences into chunks of suitable size.
 
-** Summarize Text:** The code iterates over the chunks and uses the summarization pipeline to generate summaries for each chunk. It sets the maximum summary length to 120 words and the minimum length to 30 words. The ### ### do_sample parameter is set to False to generate deterministic outputs.
+**Summarize Text:** The code iterates over the chunks and uses the summarization pipeline to generate summaries for each chunk. It sets the maximum summary length to 120 words and the minimum length to 30 words. The ### ### do_sample parameter is set to False to generate deterministic outputs.
 
 **Output to Text File:** The code joins the generated summaries into a single text string and writes it to a file named "blogsummary.txt".
 

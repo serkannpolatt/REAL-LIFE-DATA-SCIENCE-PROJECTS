@@ -28,4 +28,4 @@ Bu kod örneği, bir blog yazısında metin özetleme işlemini gerçekleştirme
 
 **Metni Metin Dosyasına Yaz:** Kod, oluşturulan özetleri tek bir metin dizesine birleştirir ve "blogsummary.txt" adında bir dosyaya yazar.
 
-*Not: Kodu çalıştırmadan önce gereken kütüphanelerin (transformers, beautifulsoup4) yüklü olduğundan emin olun.*
+> *Not: Kodu çalıştırmadan önce gereken kütüphanelerin (transformers, beautifulsoup4) yüklü olduğundan emin olun.*

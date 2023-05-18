@@ -15,7 +15,7 @@ Use the insights gained from the sentiment analysis to make data-driven decision
 
 > *Note: The above steps provide a general outline of how to perform sentiment analysis on airline company reviews. The specific implementation may vary based on your requirements and the data available.*
 
-Türkçe
+## Türkçe
 
 Bu proje, hava yolu şirketi yorumlarında duygu analizi yapmayı amaçlamaktadır. Hedef, doğal dil işleme tekniklerini kullanarak bu yorumlarda ifade edilen duyguyu analiz etmektir. Duygu analizi, müşterilerin hava yolu şirketine yönelik düşüncelerini ve hislerini anlamaya yardımcı olarak işletmelerin müşteri memnuniyet seviyelerini anlamalarına ve iyileştirme alanlarını belirlemelerine yardımcı olur.
 

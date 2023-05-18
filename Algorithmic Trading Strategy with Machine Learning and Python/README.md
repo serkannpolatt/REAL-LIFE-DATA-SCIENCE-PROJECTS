@@ -28,7 +28,7 @@ This project serves as a starting point to assist investors in performing techni
 ## Türkçe
 Bu proje, Apple hisse senedinin teknik analizini gerçekleştirmeyi amaçlamaktadır. Hedef, hisse senedi fiyat hareketleri üzerinde çeşitli göstergeler kullanarak trendleri ve alım-satım sinyallerini belirlemektir.
 
-###**Açıklama**
+### **Açıklama**
 Bu Python kodu, Apple hisse senedi fiyatları üzerinde teknik analiz yapmak için kullanılmaktadır. Kod, pandas kütüphanesini kullanarak hisse senedi verilerini okur ve fiyat hareketlerini görselleştirir. Ayrıca, basit hareketli ortalamaları (SMA) hesaplayarak trendleri ve alım-satım sinyallerini belirler.
 
 **Projede kullanılan ana adımlar şunlardır:**

@@ -4,8 +4,8 @@ This project aims to perform technical analysis on Apple stock. The goal is to a
 ### **Description**
 This Python code is used to perform technical analysis on Apple stock prices. The code reads the stock data using the pandas library and visualizes the price movements. Additionally, it calculates the Simple Moving Averages (SMA) to identify trends and generate buy/sell signals.
 
-**The main steps involved in the project are as follows:
-**
+**The main steps involved in the project are as follows:**
+
 - Reading stock data using the pandas library: The code imports pandas as pd and reads the data from the "AAPL.csv" file.
 - Visualizing stock prices: It uses the matplotlib.pyplot library to plot the price movements of the stock.
 - Calculating Simple Moving Averages: It calculates the 30-day and 100-day SMAs and visualizes them.
@@ -31,8 +31,8 @@ Bu proje, Apple hisse senedinin teknik analizini gerçekleştirmeyi amaçlamakta
 ###**Açıklama**
 Bu Python kodu, Apple hisse senedi fiyatları üzerinde teknik analiz yapmak için kullanılmaktadır. Kod, pandas kütüphanesini kullanarak hisse senedi verilerini okur ve fiyat hareketlerini görselleştirir. Ayrıca, basit hareketli ortalamaları (SMA) hesaplayarak trendleri ve alım-satım sinyallerini belirler.
 
-**Projede kullanılan ana adımlar şunlardır:
-**
+**Projede kullanılan ana adımlar şunlardır:**
+
 - Hisse senedi verilerini pandas kütüphanesiyle okuma: import pandas as pd kodu ile AAPL.csv dosyasındaki verileri okur.
 - Hisse senedi fiyatlarını görselleştirme: matplotlib.pyplot kütüphanesini kullanarak hisse senedinin fiyat hareketlerini çizdirir.
 - Basit hareketli ortalamaları hesaplama: 30 günlük ve 100 günlük SMA'ları hesaplar ve bu verileri görselleştirir.

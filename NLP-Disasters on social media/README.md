@@ -1,3 +1,6 @@
+#### download pretrained google word vectors
+http://mccormickml.com/2016/04/12/googles-pretrained-word2vec-model-in-python/
+
 ## English
 ## Project Title: Social Media Text Classification
 This project aims to perform text classification on social media data to determine the relevance of the text to a specific topic or event. The project involves several steps, including data preprocessing, feature extraction, model training, and evaluation.
@@ -113,5 +116,4 @@ Bu proje, sosyal medya verilerindeki metinleri belirli bir konu veya olayla ilgi
 
 
 
-#### download pretrained google word vectors
-http://mccormickml.com/2016/04/12/googles-pretrained-word2vec-model-in-python/
+

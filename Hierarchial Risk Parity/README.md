@@ -11,7 +11,7 @@ The main objective of this project is to showcase the implementation of mean-var
 
 **3. Data Preprocessing:** The dataset is preprocessed to create the necessary input variables for portfolio optimization.
 
-**4. Hierarchical Clustering: **The correlation matrix is calculated using the returns data, and hierarchical clustering is performed to determine the quasi-diagonal order of the stocks.
+**4. Hierarchical Clustering:** The correlation matrix is calculated using the returns data, and hierarchical clustering is performed to determine the quasi-diagonal order of the stocks.
 
 **5. Portfolio Construction:** Two portfolio construction methods, namely Minimum Variance Portfolio (MVP) and Hierarchical Risk Parity (HRP), are implemented to construct optimal portfolios.
 

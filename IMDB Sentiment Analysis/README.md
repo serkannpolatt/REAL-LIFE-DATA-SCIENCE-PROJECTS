@@ -38,8 +38,6 @@ The project aims to analyze sentiment analysis on movie reviews using machine le
 	- Evaluate the accuracy and F1 score of each model.
 
 
-> *Note: The code snippets provided in the original message are not included in this README, as per the request to exclude code from the README file.
-
 ## Türkçe 
 
 ##  IMDB Duygu Analizi
@@ -82,10 +80,3 @@ Bu proje, film incelemeleri üzerinde duygu analizi yapmayı amaçlamaktadır. A
 	- Eğitilmiş her modelle test verisi üzerinde tahminler yapmak.
 	- Her modelin doğruluk ve F1 skorunu değerlendirmek.
 
-> *Not: Orijinal mesajda verilen kod örnekleri bu README dosyasına dahil edilmemiştir, README dosyasında kod bulunmaması istendiği için.
-
-> *Projenin uygulanma detayları ve tam işlevselliği için lütfen gerçek kodlara başvurun.**
-
-
-
-> Please refer to the actual code for the implementation details and complete functionality of the project.*

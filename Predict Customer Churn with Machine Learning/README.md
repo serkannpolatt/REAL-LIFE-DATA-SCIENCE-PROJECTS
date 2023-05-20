@@ -31,7 +31,7 @@ To use this code, follow these steps:
 ### Results
 The code outputs the predicted churn status for the testing data and provides a classification report, which includes metrics such as precision, recall, and F1-score. These metrics evaluate the performance of the logistic regression model in predicting customer churn.
 
-Please note that the interpretation and application of the results may vary depending on the specific business context and dataset used.
+> *Please note that the interpretation and application of the results may vary depending on the specific business context and dataset used.*
 
 
 ## Türkçe

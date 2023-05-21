@@ -1,3 +1,53 @@
+## English
+## Systemic Risk Model User Interface
+This project is developed to create a user interface for a systemic risk model. This interface provides an interactive environment for users to analyze and visualize risks in the financial system.
+
+### Features
+- Loads the necessary data sets (df_exposures.csv, nodes.json, edges.json) for the systemic risk model.
+- Offers various options to the user through menu selections:
+	- Regulator layout selection
+	- Financial system selection
+	- Chart type selection (Transaction Relationships or Risk Graph)
+- Visualizes the risk status of the financial system by updating the charts:
+	 - Transaction Relationships graph: Shows the transaction relationships in the financial system.
+	 - Risk Graph: Presents a network graph indicating the areas where the risk is concentrated.
+- Displays certain measurements of systemic risk using bar charts with the Bqplot library:
+	 - Chart illustrating the impact of collateralization on systemic risk
+	 - Chart illustrating the impact of collateralization on systemic risk on a counterparty basis
+	 - Chart displaying risk concentration
+
+### Requirements
+The following requirements are needed to run this project:
+
+- Python 3.x
+- Numpy
+- Pandas
+- Matplotlib
+- Seaborn
+- Bqplot
+- Networkx
+- VisJS2jupyter
+- ipywidgets
+
+### Installation
+1.  Download the entire project to your computer.
+2.  Install the required libraries using Anaconda or pip.
+3.  Place the data sets (df_exposures.csv, nodes.json, edges.json) in the root directory of the project.
+
+### Usage
+1. Open the project files in a Python environment such as Anaconda or Jupyter Notebook.
+2. Open the main.ipynb file.
+3. Start the user interface by running all the cells sequentially.
+4. Update the charts and measurements by making selections from the menu.
+
+### Contributions
+This project is open source and welcomes contributions. Please submit a pull request for any bug fixes, feature additions, or improvement suggestions.
+
+### License
+This project is licensed under the MIT License. For detailed information, please refer to the LICENSE file.
+
+This README file describes the purpose, features, installation, usage, contribution policy, and license of the systemic risk model user interface. Anyone interested in the project can better understand and utilize it through this file.
+
 ## Türkçe
 ## Sistemik Risk Modeli Kullanıcı Arayüzü
 Bu proje, bir sistemik risk modelinin kullanıcı arayüzünü oluşturmak için geliştirilmiştir. Bu arayüz, finansal sistemdeki riskleri analiz etmek ve görselleştirmek için kullanıcıya interaktif bir ortam sunmaktadır.
@@ -5,16 +55,16 @@ Bu proje, bir sistemik risk modelinin kullanıcı arayüzünü oluşturmak için
 ### Özellikler
 - Sistemik risk modeli için gerekli veri setlerini (df_exposures.csv, nodes.json, edges.json) yükler.
 - Menü seçenekleri aracılığıyla kullanıcıya çeşitli seçenekler sunar:
-- Düzenleyici düzen seçimi
-- Finansal sistem seçimi
-- Grafik türü seçimi (İşlem İlişkileri veya Risk Grafiği)
+	- Düzenleyici düzen seçimi
+	- Finansal sistem seçimi
+	- Grafik türü seçimi (İşlem İlişkileri veya Risk Grafiği)
 - Grafikleri güncelleyerek finansal sistemin risk durumunu görselleştirir:
-- İşlem İlişkileri grafiği: Finansal sisteme ait işlem ilişkilerini gösterir.
-- Risk Grafiği: Riskin odaklandığı bölgeleri gösteren bir ağ grafiği sunar.
+	- İşlem İlişkileri grafiği: Finansal sisteme ait işlem ilişkilerini gösterir.
+	- Risk Grafiği: Riskin odaklandığı bölgeleri gösteren bir ağ grafiği sunar.
 - Bqplot kütüphanesini kullanarak sistemik riskin bazı ölçümlerini çubuk grafiklerle gösterir:
-- Kollateralizasyonun sistemik risk üzerindeki etkisini gösteren grafik
-- Kollateralizasyonun karşı taraf bazında sistematik risk üzerindeki etkisini gösteren grafik
-- Risk konsantrasyonunu gösteren grafik
+	- Kollateralizasyonun sistemik risk üzerindeki etkisini gösteren grafik
+	- Kollateralizasyonun karşı taraf bazında sistematik risk üzerindeki etkisini gösteren grafik
+	- Risk konsantrasyonunu gösteren grafik
 
 ### Gereksinimler
 Bu projeyi çalıştırmak için aşağıdaki gereksinimlere ihtiyaç vardır:

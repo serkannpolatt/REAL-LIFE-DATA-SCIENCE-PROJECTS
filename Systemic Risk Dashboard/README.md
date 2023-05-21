@@ -31,29 +31,5 @@ To use locally:
 * Run the notebook: ```jupyter notebook```
 
 # Türkçe 
-# Sistemik Risk Gösterge Tablosu
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/vsub21/systemic-risk-dashboard/master?filepath=systemic-risk-dashboard.ipynb)
 
-
-"A Data Science Approach to Predict the Impact of Collateralization on Systemic Risk" başlıklı yayında kullanılan gösterge tablosunun uygulanması From Security to Community Detection in Social Networking Platforms kitabında yayınlanmıştır. Bölüme ait bağlantıya buradan ulaşabilirsiniz.
-
-
-
-Bu makalede, türev işlemlerin teminatlandırılmasıyla ilgili finansal düzenlemelerin sistemik risk üzerindeki etkisini simüle edip analiz ediyoruz. Bu konu, 2007/08 finansal krizinden bu yana yoğun bir şekilde tartışılan bir konudur ve uzmanlar genellikle bu düzenlemelerin etkinliği konusunda farklı görüşlere sahiptir. Bu sorunu daha da karmaşık hale getiren ise bankaların tam bir analiz için gereken ticaret verilerini mülkiyet olarak görmesidir.
-
-Graf teorisi alanındaki gelişmeleri kullanarak gerçekçi dağılımlardan örneklenen finansal sistemlerin tamamını rastgele oluşturabilen bir simülasyon teknolojisi kullanıyoruz ve farklı düzenlemeler altında finansal sistemlerdeki riskleri hesaplamak için yeni bir açık kaynaklı risk motoruyla birleştiriyoruz. Bu, finansal düzenlemelerin etkisini, bir ticaretten sistemik riske kadar her seviyede tutarlı bir şekilde değerlendirmemize, tahmin etmemize ve optimize etmemize olanak tanır.
-
-Elde edilen veri kümesi, veri madenciliği, anormallik tespiti ve görselleştirme gibi çağdaş veri bilimi tekniklerine erişilebilir. Teminatlandırmanın kriz durumlarında bir finansal sistemi çözme maliyetlerini azalttığını, ancak bu maliyetlerin dağılımını değiştirmediğini ve aşırı durumlarda bireysel katılımcılar üzerinde olumsuz etkileri olabileceğini buluyoruz.
-
-Bu gösterge tablosu, Open Source Risk Engine için bir ön uç olarak Columbia Fintech Laboratory ve Quaternion Risk Management arasındaki bir ortak girişim olan Vivek Subramaniam tarafından Nikolai Nowaczyk'ın danışmanlığında oluşturulmuştur. Bu gösterge tablosu, finansal sistemler içinde karşı taraf ilişkileri ve risk ile ilişkili olarak teminatlandırma yapılandırmalarının (IM, VM ve IM/VM) etkilerini tasvir etmektedir.
-
-Etkileşimli bir örnek, yukarıdaki Binder rozeti aracılığıyla başlatılabilir ve notebook kişisel kullanım ve değişiklik için indirilebilir.
-
-Yerel olarak kullanmak için:
-
-Repo'yu ve conda ortamını klonlayın: conda env create -f environment.yml
-
-Ortamı etkinleştirin: conda activate fintech-lab36
-
-Notebook'u çalıştırın: jupyter notebook
 

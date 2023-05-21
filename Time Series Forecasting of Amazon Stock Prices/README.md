@@ -69,7 +69,8 @@ Bu proje, gelişmiş teknik göstergeler ve son teknoloji makine öğrenme algor
 
 
 
-#### --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#### ------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## English
 ## Financial Data Prediction with LSTM and GRU
 This project aims to predict financial data using LSTM (Long Short-Term Memory) and GRU (Gated Recurrent Unit) algorithms. The purpose of these codes is to predict the next day's stock prices using a dataset.
@@ -150,7 +151,7 @@ Kodlar, finansal verileri işlemek ve modeli oluşturmak için gerekli adımlar�
 - Detaylı bilgi için utils.py dosyasını inceleyebilirsiniz.
 
 
-#### --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#### ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## English
 ## LSTM Stock Price Prediction

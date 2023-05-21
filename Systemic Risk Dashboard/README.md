@@ -97,7 +97,6 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylı bilgi için LICENSE 
 
 Bu README dosyası, sistemik risk modeli kullanıcı arayüzünün amacını, özelliklerini, kurulumunu, kullanımını, katkıları kabul etme politikasını ve lisansını açıklamaktadır. Projeyle ilgilenen herkes, bu dosya aracılığıyla projeyi daha iyi anlayabilir ve kullanabilir.
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/vsub21/systemic-risk-dashboard/master?filepath=systemic-risk-dashboard.ipynb)
 
 
 

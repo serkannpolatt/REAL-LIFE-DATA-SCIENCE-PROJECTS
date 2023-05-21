@@ -97,6 +97,6 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylı bilgi için LICENSE 
 
 Bu README dosyası, sistemik risk modeli kullanıcı arayüzünün amacını, özelliklerini, kurulumunu, kullanımını, katkıları kabul etme politikasını ve lisansını açıklamaktadır. Projeyle ilgilenen herkes, bu dosya aracılığıyla projeyi daha iyi anlayabilir ve kullanabilir.
 
-
+![](https://i.imgur.com/Z1JUT5q.gif)
 
 

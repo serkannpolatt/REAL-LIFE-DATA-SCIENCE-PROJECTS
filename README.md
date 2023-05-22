@@ -2,7 +2,7 @@
 # Real Life Data Science Projects
 
 ## This repository contains a real-life machine learning project aimed at solving a specific problem. The project is divided into several stages, including data collection, data cleaning, feature engineering, model selection, and model evaluation.
-
+### -------------------------------------------------------------------------------------------------------
 ## Türkçe
 # Gerçek Hayat Veri Bilimi Projeleri
 ## Bu havuz, belirli bir sorunu çözmeyi amaçlayan gerçek hayattan bir makine öğrenimi projeleri içerir. Proje, veri toplama, veri temizleme, özellik mühendisliği, model seçimi ve model değerlendirmesi dahil olmak üzere birkaç aşamaya ayrılmıştır.

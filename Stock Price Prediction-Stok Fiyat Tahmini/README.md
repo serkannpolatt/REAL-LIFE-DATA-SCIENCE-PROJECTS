@@ -1,154 +1,82 @@
-# Stok Analizi
+## English
+##  Stock Analyzer 
+
+### Purpose
+The purpose of this code is to provide a stock analyzer application that can analyze and visualize the historical data of a given stock. It offers various technical indicators and predictions using linear regression to assist users in making informed investment decisions.
+
+### Functionality
+This Python code utilizes the Streamlit library to create a user-friendly interface for the stock analyzer application. It retrieves stock data from the Yahoo Finance API and presents it in a visually appealing and interactive manner. The application offers the following features:
+
+- **Display of stock data:** The application retrieves and displays the historical stock data for a given stock ticker symbol.
+
+- **Technical indicators:** Users can explore various technical indicators such as Close Prices, Relative Strength Index (RSI), Bollinger Bands, On-Balance Volume (OBV), Moving Average Convergence Divergence (MACD), Momentum, and Support/Resistance. These indicators provide insights into the stock's price trends, momentum, and potential support and resistance levels.
+
+- **Linear Regression Predictions:** The application utilizes linear regression to generate predictions for future stock prices based on historical data.
+
+- **Chart zooming:** Users can zoom in on the charts to examine the stock's support and resistance levels more closely.
+
+- **Indicator explanations:** The application provides explanations and descriptions for each technical indicator to help users understand their significance and interpretation.
+
+### Usage
+To use the stock analyzer application:
+
+- Install the necessary dependencies by running the command: pip install streamlit numpy pandas yahoo_fin matplotlib mpld3 pandas_ta sklearn fpdf.
+
+- Execute the code by running: streamlit run stock_analyzer.py.
+
+- The Streamlit server will start, and the application will open in your browser.
+
+- Enter the desired stock ticker symbol in the text input field. If no ticker is entered, the default ticker "GOOG" will be used.
+
+- The application will retrieve the stock data and display the entered ticker. You can then explore the various technical indicators, predictions, and charts.
+
+### Contributing
+If you wish to contribute to this project, feel free to fork the repository and make any desired changes. You can also contribute by opening issues or submitting pull requests for improvements or bug fixes.
+
+### License
+This code is licensed under the MIT License. You are free to use, modify, and distribute it in accordance with the terms of the license.
+
+### Disclaimer
+Please note that this code and the information provided by the application are intended for educational and informational purposes only. They should not be considered as financial advice. Always conduct your own research and consult with a financial professional before making any investment decisions.
+
 
 ## Türkçe
+## Hisse Senedi Analizörü
 
-#### Bu kod, bir hisse senedinin teknik analizini yapmak için kullanılan bir araçtır.Kullanıcıdan bir hisse senedi sembolü alır ve o sembolle ilgili çeşitli teknik göstergeleri ve tahminleri sunar. Ayrıca, geçmiş verilere dayanarak gelecekteki fiyatları tahmin eder.
+### Amaç
+Bu kodun amacı, belirli bir hisse senedinin geçmiş verilerini analiz edebilen ve görselleştirebilen bir hisse senedi analizörü uygulaması sunmaktır. Lineer regresyon kullanarak çeşitli teknik göstergeler ve tahminler sunarak kullanıcıların bilinçli yatırım kararları almasına yardımcı olur.
 
-#### Kodun çalışması için aşağıdaki kütüphanelere ihtiyaç vardır:
+### İşlevsellik
+Bu Python kodu, hisse senedi analizörü uygulaması için kullanıcı dostu bir arayüz oluşturmak için Streamlit kütüphanesini kullanır. Yahoo Finance API'den hisse senedi verilerini alır ve görsel olarak çekici ve etkileşimli bir şekilde sunar. Uygulama aşağıdaki özellikleri sunar:
 
-```bash
-pip install streamlit: Web tabanlı bir kullanıcı arayüzü oluşturmak için kullanılır.
-import streamlit
+- **Hisse senedi verilerinin görüntülenmesi:** Uygulama, belirli bir hisse senedi sembolü için geçmiş hisse senedi verilerini alır ve görüntüler.
 
-```
+- **Teknik göstergeler:** Kullanıcılar Kapanış Fiyatları, Göreceli Güç Endeksi (RSI), Bollinger Bantları, On-Balance Volume (OBV), Hareketli Ortalama Yakınsama Diverjansı (MACD), Momentum ve Destek/Direnç gibi çeşitli teknik göstergeleri inceleyebilir. Bu göstergeler, hisse senedinin fiyat trendleri, momentumu ve potansiyel destek ve direnç seviyeleri hakkında bilgi sağlar.
 
-```bash
-pip install numpy: Sayısal hesaplamalar için kullanılır.
-import streamlit
-```
+- **Lineer Regresyon Tahminleri:** Uygulama, geçmiş verilere dayanarak gelecekteki hisse senedi fiyatları için tahminler oluşturmak için lineer regresyon kullanır.
 
-```bash
-pip install pandas: Veri analizi için kullanılır.
-import pandas
-```
+- Grafik yakınlaştırma: Kullanıcılar grafikleri yakınlaştırarak hisse senedinin destek ve direnç seviyelerini daha yakından inceleyebilir.
 
-```bash
-pip install yahoo_fin.stock_info: Hisse senedi verilerini çekmek için kullanılır.
-import yahoo_fin.stock_info
-```
+- **Gösterge açıklamaları:** Uygulama, her teknik gösterge için açıklamalar ve tanımlamalar sunar, böylece kullanıcılar bunların önemini ve yorumunu anlamalarına yardımcı olur.
 
-```bash
-pip install matplotlib.pyplot: Grafik çizimleri için kullanılır.
-```
+### Kullanım
+Hisse senedi analizörü uygulamasını kullanmak için:
 
-```bash
-pip install mpld3: Matplotlib grafiklerini interaktif hale getirmek için kullanılır.
-import mpld3
-```
+- Gerekli bağımlılıkları yüklemek için şu komutu çalıştırın: pip install streamlit numpy pandas yahoo_fin matplotlib mpld3 pandas_ta sklearn fpdf.
 
-```bash
-pip install pandas_ta: Teknik analiz göstergelerini hesaplamak için kullanılır.
-import pandas_ta
-```
+- Kodu çalıştırmak için şu komutu çalıştırın: streamlit run stock_analyzer.py.
 
-```bash
-pip install sklearn.preprocessing.MinMaxScaler: Verileri ölçeklendirmek için kullanılır.
-import sklearn.preprocessing.MinMaxScaler
-```
+- Streamlit sunucusu başlayacak ve uygulama tarayıcınızda açılacaktır.
 
-```bash
-pip install sklearn.linear_model.LinearRegression: Doğrusal regresyon modeli oluşturmak için kullanılır.
-import sklearn.linear_model.LinearRegression
-```
+- Metin giriş alanına istediğiniz hisse senedi sembolünü girin. Eğer sembol girilmezse, varsayılan sembol olarak "GOOG" kullanılacaktır.
 
-```bash
-pip install fpdf.FPDF: PDF dosyası oluşturmak için kullanılır.
-import fpdf.FPDF
-```
+- Uygulama hisse senedi verilerini alacak ve girilen sembolü görüntüleyecektir. Ardından çeşitli teknik göstergeleri, tahminleri ve grafikleri keşfedebilirsiniz.
 
-```bash
-pip install base64: Dosya dönüşümleri için kullanılır.
-import base64
-```
+### Katkıda Bulunma
+Bu projeye katkıda bulunmak isterseniz, depoyu çatallayabilir ve istediğiniz değişiklikleri yapabilirsiniz. Ayrıca, iyileştirmeler veya hata düzeltmeleri için sorunları açabilir veya birleştirme istekleri gönderebilirsiniz.
 
-```bash
-pip install tempfile.NamedTemporaryFile: Geçici dosya oluşturmak için kullanılır.
-import tempfile.NamedTemporaryFile
-```
+### Lisans
+Bu kod MIT Lisansı altında lisanslanmıştır. Lisansın şartlarına uygun olarak özgürce kullanabilir, değiştirebilir ve dağıtabilirsiniz.
 
-## Bu kod aşağıdaki işlevlere sahiptir:
-
-- #### Kullanıcıdan bir hisse senedi sembolü alır.
-
-- #### Seçilen hisse senedi için çeşitli teknik göstergeleri hesaplar ve grafiğini oluşturur.
-
-- #### Gelecekteki fiyatları tahmin eder ve tahminlerin grafiğini oluşturur.
-- #### Son olarak, oluşturulan raporu PDF formatında indirilebilir hale getirir.
-
-# Stock Analyzer
-
-## English
-
-#### This code is a tool used to perform technical analysis of a stock. It takes a stock symbol from the user and provides various technical indicators and predictions related to that symbol. Additionally, it predicts future prices based on historical data.
-
-# The code requires the following libraries to run:
-
-```bash
-pip install streamlit: Used to create a web-based user interface.
-import streamlit
-```
-
-```bash
-pip install numpy: Used for numerical computations.
-import numpy
-```
-
-```bash
-pip install pandas: Used for data analysis.
-import pandas
-```
-
-```bash
-pip install yahoo_fin.stock_info: Used to fetch stock data.
-import yahoo_fin.stock_info
-```
-
-```bash
-pip install matplotlib.pyplot: Used to make matplotlib graphs interactive.
-import matplotlib.pyplot
-```
-
-```bash
-pip install mpld3: Matplotlib grafiklerini interaktif hale getirmek için kullanılır.
-import mpld3
-```
-
-```bash
-pip install pandas_ta: Used to calculate technical analysis indicators.
-import pandas_ta
-```
-
-```bash
-pip install sklearn.preprocessing.MinMaxScaler: Used to scale data.
-import sklearn.preprocessing.MinMaxScaler
-```
-
-```bash
-pip install sklearn.linear_model.LinearRegression: Used to create a linear regression model.
-import sklearn.linear_model.LinearRegression
-```
-
-```bash
-pip install fpdf.FPDF: Used to create PDF files.
-import fpdf.FPDF
-```
-
-```bash
-pip install base64: Used for file conversions.
-import base64
-```
-
-```bash
-pip install tempfile.NamedTemporaryFile: Used to create temporary files.
-import tempfile.NamedTemporaryFile
-```
-
-## This code has the following functionalities:
-
-- #### Takes a stock symbol from the user.
-
-- #### Calculates various technical indicators and plots the chart for the selected stock.
-
-- #### Predicts future prices and plots the predictions chart.
-
-- #### Finally, it makes the generated report downloadable in PDF format.
+### Feragatname
+Lütfen bu kodu ve uygulama tarafından sağlanan bilgileri yalnızca eğitim ve bilgilendirme amaçlı olarak kullanın. Finansal tavsiye olarak değerlendirilmemelidir. Her zaman kendi araştırmanızı yapın ve yatırım kararları vermeden önce bir finansal uzmana danışın.

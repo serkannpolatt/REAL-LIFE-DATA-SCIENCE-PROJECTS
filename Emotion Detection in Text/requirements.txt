@@ -1,0 +1,10 @@
+numpy
+pandas
+seaborn
+neattext
+sklearn
+joblib
+plotly
+altair
+streamlit
+datetime

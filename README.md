@@ -11,8 +11,6 @@ The primary goals of this repository are to:
 
 - **Demonstrate Data Science Methodologies**: The projects cover the complete data science process, from data collection to model evaluation, enabling users to understand the methodologies involved in tackling data-driven problems.
 
-- **Encourage Learning and Collaboration**: By sharing these projects, we aim to foster a community of learners and practitioners who can collaborate, provide feedback, and enhance their skills in data science.
-
 ### Who is This Repository For?
 
 This repository is suitable for:
@@ -76,8 +74,6 @@ Bu reponun başlıca hedefleri şunlardır:
 - **Gerçek Dünya Uygulamalarını Gösterme**: Her proje, veri biliminin nasıl kullanılarak uygulanabilir içgörüler elde edilebileceğini ve bilinçli kararlar alınabileceğini gösteren bir gerçek dünya senaryosunu temsil etmektedir.
 
 - **Veri Bilimi Metodolojilerini Gösterme**: Projeler, veri toplama aşamasından model değerlendirmesine kadar olan veri bilimi sürecini kapsar, böylece kullanıcıların veri odaklı sorunları ele alma yöntemlerini anlamalarına yardımcı olur.
-
-- **Öğrenme ve İşbirliğini Teşvik Etme**: Bu projeleri paylaşarak, işbirliği yapabilecek, geri bildirimde bulunabilecek ve veri bilimi alanındaki becerilerini geliştirebilecek bir öğrenme ve uygulayıcı topluluğu oluşturmayı hedefliyoruz.
 
 ### Proje Aşamaları
 

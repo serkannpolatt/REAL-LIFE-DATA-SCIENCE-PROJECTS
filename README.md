@@ -56,6 +56,14 @@ Each project in this repository follows a structured approach, consisting of sev
 9. **Monitoring and Maintenance**: 
    - Continuously monitoring the model's performance post-deployment to ensure it remains effective over time. This stage involves regularly updating the model with new data, retraining it as necessary, and addressing any issues that arise.
 
+---
+
+### Author
+Serkan Polat
+
+---
+
+
 ## Türkçe
 ## Gerçek Hayat Veri Bilimi Projeleri
 
@@ -102,5 +110,12 @@ Bu repoda bulunan her proje, birkaç ana aşamadan oluşan yapılandırılmış 
 9. **İzleme ve Bakım**:
    - Dağıtım sonrasında modelin performansının sürekli izlenmesi, zamanla etkin kalmasını sağlamak. Bu aşama, yeni verilerle modelin düzenli olarak güncellenmesini, gerekirse yeniden eğitilmesini ve ortaya çıkan sorunların çözülmesini içerir.
 
+
+---
+
+### Yazar
+Serkan Polat
+
+---
 
 ![bloggif_6357c43c606b0](https://user-images.githubusercontent.com/92849974/197758208-18d70a32-7e4e-4bf7-9c74-790f8a3ba6d2.gif)
